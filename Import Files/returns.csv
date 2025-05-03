@@ -1,0 +1,2001 @@
+RT_ID,Or_ID,Reason,Return_Refund,Dates
+RR_301000001,OR_31004141,"Wrong Item Shipped",Approved,2023-04-08
+RR_301000002,OR_31008145,"Late Delivery",Rejected,2024-05-13
+RR_301000003,OR_31005212,"Wrong Item Shipped",Approved,2023-11-01
+RR_301000004,OR_31006318,"Late Delivery",Rejected,2024-05-16
+RR_301000005,OR_31007423,"Defective Product",Approved,2023-06-10
+RR_301000006,OR_31007254,"Defective Product",Approved,2023-10-30
+RR_301000007,OR_31009500,"Defective Product",Approved,2024-08-10
+RR_301000008,OR_31006981,"Late Delivery",Rejected,2023-06-21
+RR_301000009,OR_31009851,"Defective Product",Rejected,2023-10-20
+RR_301000010,OR_31002437,"Wrong Item Shipped",Rejected,2024-08-25
+RR_301000011,OR_31001447,"Defective Product",Approved,2024-09-09
+RR_301000012,OR_31005871,"Wrong Item Shipped",Rejected,2023-01-09
+RR_301000013,OR_31002228,"Defective Product",Approved,2023-12-17
+RR_301000014,OR_31002408,"Wrong Item Shipped",Approved,2023-01-21
+RR_301000015,OR_31001805,"Defective Product",Approved,2024-04-08
+RR_301000016,OR_31001605,"Late Delivery",Rejected,2023-08-18
+RR_301000017,OR_31000357,"Defective Product",Rejected,2023-05-10
+RR_301000018,OR_31002727,"Defective Product",Approved,2024-08-05
+RR_301000019,OR_31001116,"Defective Product",Rejected,2024-05-19
+RR_301000020,OR_31006099,"Late Delivery",Approved,2023-03-19
+RR_301000021,OR_31006615,"Defective Product",Rejected,2023-10-31
+RR_301000022,OR_31003631,"Late Delivery",Approved,2024-08-08
+RR_301000023,OR_31005590,"Wrong Item Shipped",Approved,2023-06-03
+RR_301000024,OR_31009603,"Defective Product",Approved,2023-02-25
+RR_301000025,OR_31004806,"Late Delivery",Rejected,2023-01-05
+RR_301000026,OR_31003786,"Wrong Item Shipped",Approved,2024-10-19
+RR_301000027,OR_31000004,"Late Delivery",Rejected,2024-10-15
+RR_301000028,OR_31007645,"Defective Product",Approved,2023-04-15
+RR_301000029,OR_31002345,"Defective Product",Approved,2024-07-05
+RR_301000030,OR_31000148,"Wrong Item Shipped",Approved,2024-09-02
+RR_301000031,OR_31002563,"Late Delivery",Rejected,2024-11-26
+RR_301000032,OR_31005333,"Late Delivery",Approved,2023-10-30
+RR_301000033,OR_31008415,"Defective Product",Approved,2023-04-14
+RR_301000034,OR_31008740,"Defective Product",Approved,2023-12-16
+RR_301000035,OR_31006466,"Wrong Item Shipped",Rejected,2024-04-25
+RR_301000036,OR_31008190,"Late Delivery",Approved,2023-12-13
+RR_301000037,OR_31004245,"Wrong Item Shipped",Approved,2023-02-11
+RR_301000038,OR_31000789,"Defective Product",Approved,2024-02-15
+RR_301000039,OR_31001444,"Wrong Item Shipped",Rejected,2024-07-07
+RR_301000040,OR_31008509,"Wrong Item Shipped",Rejected,2024-06-10
+RR_301000041,OR_31007156,"Wrong Item Shipped",Approved,2024-03-14
+RR_301000042,OR_31003276,"Wrong Item Shipped",Rejected,2023-01-09
+RR_301000043,OR_31002626,"Defective Product",Rejected,2023-04-14
+RR_301000044,OR_31007234,"Late Delivery",Approved,2023-03-22
+RR_301000045,OR_31002855,"Defective Product",Approved,2024-04-02
+RR_301000046,OR_31009074,"Late Delivery",Rejected,2024-10-12
+RR_301000047,OR_31005931,"Wrong Item Shipped",Approved,2024-02-10
+RR_301000048,OR_31000057,"Defective Product",Approved,2024-02-04
+RR_301000049,OR_31005861,"Wrong Item Shipped",Rejected,2024-10-31
+RR_301000050,OR_31005902,"Wrong Item Shipped",Approved,2024-06-18
+RR_301000051,OR_31009388,"Late Delivery",Approved,2023-04-04
+RR_301000052,OR_31007014,"Late Delivery",Rejected,2023-07-25
+RR_301000053,OR_31009330,"Defective Product",Rejected,2024-11-21
+RR_301000054,OR_31009970,"Wrong Item Shipped",Approved,2023-07-19
+RR_301000055,OR_31007563,"Defective Product",Approved,2024-08-08
+RR_301000056,OR_31000713,"Late Delivery",Rejected,2023-02-26
+RR_301000057,OR_31006022,"Defective Product",Approved,2023-08-15
+RR_301000058,OR_31000463,"Wrong Item Shipped",Approved,2023-08-07
+RR_301000059,OR_31002912,"Late Delivery",Approved,2023-05-29
+RR_301000060,OR_31002803,"Late Delivery",Rejected,2024-08-23
+RR_301000061,OR_31001436,"Defective Product",Approved,2024-01-05
+RR_301000062,OR_31008333,"Late Delivery",Approved,2024-11-06
+RR_301000063,OR_31008203,"Late Delivery",Approved,2023-08-16
+RR_301000064,OR_31000331,"Late Delivery",Approved,2024-03-10
+RR_301000065,OR_31006483,"Late Delivery",Approved,2023-12-01
+RR_301000066,OR_31009159,"Late Delivery",Rejected,2024-11-05
+RR_301000067,OR_31009010,"Wrong Item Shipped",Rejected,2024-04-15
+RR_301000068,OR_31003423,"Late Delivery",Rejected,2024-05-25
+RR_301000069,OR_31001345,"Late Delivery",Rejected,2024-05-09
+RR_301000070,OR_31001654,"Late Delivery",Rejected,2023-11-21
+RR_301000071,OR_31003295,"Defective Product",Approved,2023-09-22
+RR_301000072,OR_31008350,"Defective Product",Approved,2023-07-15
+RR_301000073,OR_31006523,"Defective Product",Rejected,2024-10-24
+RR_301000074,OR_31003255,"Defective Product",Approved,2023-06-07
+RR_301000075,OR_31008387,"Late Delivery",Rejected,2024-10-07
+RR_301000076,OR_31005905,"Wrong Item Shipped",Rejected,2023-03-23
+RR_301000077,OR_31007509,"Defective Product",Approved,2023-12-27
+RR_301000078,OR_31005671,"Late Delivery",Rejected,2023-10-26
+RR_301000079,OR_31004258,"Late Delivery",Approved,2023-12-31
+RR_301000080,OR_31009746,"Defective Product",Rejected,2023-02-02
+RR_301000081,OR_31007924,"Wrong Item Shipped",Rejected,2024-02-15
+RR_301000082,OR_31004936,"Late Delivery",Approved,2024-09-17
+RR_301000083,OR_31006503,"Wrong Item Shipped",Rejected,2023-02-13
+RR_301000084,OR_31007802,"Late Delivery",Rejected,2023-12-13
+RR_301000085,OR_31005389,"Late Delivery",Approved,2024-05-11
+RR_301000086,OR_31005482,"Wrong Item Shipped",Approved,2024-03-31
+RR_301000087,OR_31002164,"Late Delivery",Approved,2023-09-23
+RR_301000088,OR_31002955,"Defective Product",Rejected,2023-11-17
+RR_301000089,OR_31000841,"Defective Product",Rejected,2023-11-09
+RR_301000090,OR_31008586,"Defective Product",Rejected,2024-01-31
+RR_301000091,OR_31001951,"Wrong Item Shipped",Approved,2023-02-28
+RR_301000092,OR_31001827,"Wrong Item Shipped",Rejected,2023-05-01
+RR_301000093,OR_31009179,"Defective Product",Approved,2024-01-13
+RR_301000094,OR_31007778,"Late Delivery",Rejected,2023-07-14
+RR_301000095,OR_31002085,"Wrong Item Shipped",Approved,2023-07-31
+RR_301000096,OR_31000853,"Late Delivery",Rejected,2023-03-05
+RR_301000097,OR_31000258,"Late Delivery",Approved,2023-12-26
+RR_301000098,OR_31005797,"Wrong Item Shipped",Approved,2023-06-15
+RR_301000099,OR_31006843,"Defective Product",Rejected,2024-11-16
+RR_301000100,OR_31009830,"Late Delivery",Rejected,2024-03-12
+RR_301000101,OR_31003801,"Defective Product",Rejected,2024-09-01
+RR_301000102,OR_31004365,"Late Delivery",Rejected,2024-08-03
+RR_301000103,OR_31004455,"Wrong Item Shipped",Approved,2023-12-24
+RR_301000104,OR_31008074,"Defective Product",Approved,2024-04-27
+RR_301000105,OR_31003992,"Late Delivery",Rejected,2024-03-27
+RR_301000106,OR_31006455,"Wrong Item Shipped",Approved,2023-10-09
+RR_301000107,OR_31007714,"Defective Product",Rejected,2024-01-24
+RR_301000108,OR_31005057,"Defective Product",Approved,2023-01-03
+RR_301000109,OR_31009140,"Defective Product",Rejected,2024-12-15
+RR_301000110,OR_31006254,"Wrong Item Shipped",Approved,2024-08-26
+RR_301000111,OR_31000677,"Wrong Item Shipped",Approved,2024-10-29
+RR_301000112,OR_31003672,"Late Delivery",Rejected,2023-11-29
+RR_301000113,OR_31003876,"Defective Product",Approved,2023-07-27
+RR_301000114,OR_31009561,"Wrong Item Shipped",Rejected,2023-12-13
+RR_301000115,OR_31006371,"Late Delivery",Approved,2024-11-24
+RR_301000116,OR_31001102,"Wrong Item Shipped",Rejected,2024-07-30
+RR_301000117,OR_31002442,"Wrong Item Shipped",Approved,2023-02-17
+RR_301000118,OR_31005711,"Wrong Item Shipped",Rejected,2023-02-13
+RR_301000119,OR_31008881,"Late Delivery",Rejected,2023-10-27
+RR_301000120,OR_31009120,"Defective Product",Rejected,2023-07-07
+RR_301000121,OR_31005493,"Defective Product",Rejected,2024-08-26
+RR_301000122,OR_31008705,"Wrong Item Shipped",Rejected,2024-02-09
+RR_301000123,OR_31000847,"Late Delivery",Approved,2024-11-11
+RR_301000124,OR_31009560,"Defective Product",Rejected,2024-07-03
+RR_301000125,OR_31005833,"Defective Product",Approved,2024-06-07
+RR_301000126,OR_31008655,"Defective Product",Rejected,2023-06-10
+RR_301000127,OR_31007368,"Defective Product",Rejected,2024-12-05
+RR_301000128,OR_31005187,"Wrong Item Shipped",Approved,2023-03-22
+RR_301000129,OR_31004090,"Wrong Item Shipped",Approved,2024-08-02
+RR_301000130,OR_31006663,"Defective Product",Approved,2024-05-20
+RR_301000131,OR_31005271,"Wrong Item Shipped",Rejected,2024-11-08
+RR_301000132,OR_31004891,"Wrong Item Shipped",Rejected,2024-08-26
+RR_301000133,OR_31009397,"Wrong Item Shipped",Rejected,2024-04-24
+RR_301000134,OR_31006805,"Defective Product",Rejected,2024-01-29
+RR_301000135,OR_31008522,"Wrong Item Shipped",Rejected,2023-12-23
+RR_301000136,OR_31006274,"Wrong Item Shipped",Approved,2024-01-22
+RR_301000137,OR_31005539,"Late Delivery",Approved,2023-01-01
+RR_301000138,OR_31001860,"Wrong Item Shipped",Approved,2023-08-10
+RR_301000139,OR_31002083,"Defective Product",Approved,2023-11-18
+RR_301000140,OR_31008998,"Wrong Item Shipped",Rejected,2024-01-28
+RR_301000141,OR_31007332,"Late Delivery",Rejected,2024-06-02
+RR_301000142,OR_31000196,"Wrong Item Shipped",Rejected,2023-03-09
+RR_301000143,OR_31001467,"Defective Product",Approved,2024-11-05
+RR_301000144,OR_31002574,"Wrong Item Shipped",Rejected,2023-07-16
+RR_301000145,OR_31001741,"Wrong Item Shipped",Rejected,2024-01-03
+RR_301000146,OR_31006638,"Late Delivery",Rejected,2023-05-02
+RR_301000147,OR_31004644,"Late Delivery",Rejected,2023-10-16
+RR_301000148,OR_31002117,"Late Delivery",Approved,2024-04-30
+RR_301000149,OR_31007414,"Wrong Item Shipped",Rejected,2024-11-23
+RR_301000150,OR_31001090,"Wrong Item Shipped",Rejected,2023-03-21
+RR_301000151,OR_31004202,"Late Delivery",Rejected,2024-02-06
+RR_301000152,OR_31008564,"Defective Product",Approved,2024-07-25
+RR_301000153,OR_31003792,"Defective Product",Rejected,2024-08-12
+RR_301000154,OR_31001242,"Defective Product",Approved,2023-12-03
+RR_301000155,OR_31005319,"Wrong Item Shipped",Approved,2023-12-22
+RR_301000156,OR_31006613,"Defective Product",Approved,2023-05-27
+RR_301000157,OR_31009963,"Defective Product",Rejected,2024-12-04
+RR_301000158,OR_31001294,"Wrong Item Shipped",Rejected,2024-01-26
+RR_301000159,OR_31001824,"Late Delivery",Rejected,2024-02-07
+RR_301000160,OR_31000806,"Late Delivery",Approved,2024-02-14
+RR_301000161,OR_31003560,"Defective Product",Rejected,2024-04-03
+RR_301000162,OR_31004016,"Wrong Item Shipped",Approved,2024-08-18
+RR_301000163,OR_31001746,"Defective Product",Approved,2024-09-28
+RR_301000164,OR_31009408,"Defective Product",Rejected,2023-10-01
+RR_301000165,OR_31005016,"Late Delivery",Rejected,2024-12-23
+RR_301000166,OR_31005516,"Late Delivery",Rejected,2024-08-19
+RR_301000167,OR_31004315,"Wrong Item Shipped",Rejected,2024-02-26
+RR_301000168,OR_31000054,"Wrong Item Shipped",Rejected,2023-09-17
+RR_301000169,OR_31008117,"Defective Product",Approved,2024-04-29
+RR_301000170,OR_31003511,"Wrong Item Shipped",Approved,2023-11-26
+RR_301000171,OR_31008531,"Wrong Item Shipped",Approved,2024-07-12
+RR_301000172,OR_31002571,"Defective Product",Approved,2023-12-14
+RR_301000173,OR_31007265,"Late Delivery",Rejected,2023-07-25
+RR_301000174,OR_31001571,"Wrong Item Shipped",Rejected,2024-06-16
+RR_301000175,OR_31001177,"Wrong Item Shipped",Approved,2024-08-17
+RR_301000176,OR_31003124,"Wrong Item Shipped",Approved,2023-02-15
+RR_301000177,OR_31001168,"Defective Product",Rejected,2023-10-25
+RR_301000178,OR_31009387,"Defective Product",Rejected,2024-03-19
+RR_301000179,OR_31005908,"Defective Product",Approved,2023-12-18
+RR_301000180,OR_31004199,"Defective Product",Approved,2023-02-18
+RR_301000181,OR_31006452,"Late Delivery",Approved,2024-05-30
+RR_301000182,OR_31007478,"Late Delivery",Rejected,2023-11-18
+RR_301000183,OR_31009357,"Late Delivery",Approved,2023-12-28
+RR_301000184,OR_31000411,"Late Delivery",Rejected,2024-11-20
+RR_301000185,OR_31000590,"Defective Product",Approved,2023-09-23
+RR_301000186,OR_31002891,"Defective Product",Rejected,2024-06-23
+RR_301000187,OR_31002032,"Defective Product",Rejected,2024-12-23
+RR_301000188,OR_31001610,"Wrong Item Shipped",Approved,2024-07-10
+RR_301000189,OR_31005917,"Wrong Item Shipped",Rejected,2023-09-14
+RR_301000190,OR_31002855,"Wrong Item Shipped",Rejected,2023-05-13
+RR_301000191,OR_31005589,"Late Delivery",Rejected,2023-07-23
+RR_301000192,OR_31003347,"Wrong Item Shipped",Approved,2023-09-07
+RR_301000193,OR_31009163,"Late Delivery",Approved,2023-09-25
+RR_301000194,OR_31009815,"Wrong Item Shipped",Rejected,2024-09-08
+RR_301000195,OR_31004216,"Defective Product",Approved,2024-04-09
+RR_301000196,OR_31001579,"Wrong Item Shipped",Rejected,2023-02-11
+RR_301000197,OR_31000453,"Late Delivery",Approved,2024-12-09
+RR_301000198,OR_31008296,"Defective Product",Rejected,2024-10-26
+RR_301000199,OR_31003109,"Defective Product",Approved,2024-07-09
+RR_301000200,OR_31005070,"Wrong Item Shipped",Rejected,2023-02-03
+RR_301000201,OR_31008576,"Wrong Item Shipped",Rejected,2024-10-26
+RR_301000202,OR_31007551,"Late Delivery",Rejected,2023-07-07
+RR_301000203,OR_31008750,"Defective Product",Rejected,2023-04-09
+RR_301000204,OR_31009061,"Defective Product",Rejected,2023-09-27
+RR_301000205,OR_31007213,"Wrong Item Shipped",Approved,2023-11-01
+RR_301000206,OR_31004503,"Late Delivery",Approved,2024-11-08
+RR_301000207,OR_31009284,"Late Delivery",Rejected,2024-03-15
+RR_301000208,OR_31009162,"Defective Product",Approved,2023-07-23
+RR_301000209,OR_31009105,"Defective Product",Rejected,2023-02-27
+RR_301000210,OR_31009308,"Wrong Item Shipped",Approved,2024-12-05
+RR_301000211,OR_31007569,"Wrong Item Shipped",Rejected,2023-01-30
+RR_301000212,OR_31008305,"Defective Product",Rejected,2023-08-23
+RR_301000213,OR_31008233,"Wrong Item Shipped",Approved,2023-01-26
+RR_301000214,OR_31001180,"Wrong Item Shipped",Rejected,2024-12-21
+RR_301000215,OR_31002887,"Late Delivery",Rejected,2023-03-10
+RR_301000216,OR_31008687,"Defective Product",Approved,2023-01-06
+RR_301000217,OR_31003619,"Defective Product",Rejected,2023-02-06
+RR_301000218,OR_31005279,"Defective Product",Approved,2024-10-27
+RR_301000219,OR_31005715,"Late Delivery",Rejected,2024-12-23
+RR_301000220,OR_31003829,"Wrong Item Shipped",Approved,2024-04-01
+RR_301000221,OR_31003758,"Defective Product",Approved,2024-10-15
+RR_301000222,OR_31004121,"Wrong Item Shipped",Rejected,2024-05-17
+RR_301000223,OR_31007886,"Late Delivery",Rejected,2023-08-06
+RR_301000224,OR_31004514,"Defective Product",Approved,2023-06-21
+RR_301000225,OR_31000092,"Late Delivery",Approved,2024-09-07
+RR_301000226,OR_31000088,"Defective Product",Rejected,2024-04-20
+RR_301000227,OR_31001412,"Wrong Item Shipped",Rejected,2024-06-22
+RR_301000228,OR_31002792,"Late Delivery",Approved,2023-09-27
+RR_301000229,OR_31004835,"Late Delivery",Rejected,2024-08-31
+RR_301000230,OR_31002846,"Wrong Item Shipped",Approved,2023-11-15
+RR_301000231,OR_31009394,"Wrong Item Shipped",Approved,2024-05-19
+RR_301000232,OR_31006310,"Defective Product",Rejected,2024-09-02
+RR_301000233,OR_31002005,"Late Delivery",Approved,2024-06-07
+RR_301000234,OR_31002447,"Defective Product",Rejected,2024-11-30
+RR_301000235,OR_31005435,"Defective Product",Rejected,2024-03-17
+RR_301000236,OR_31005156,"Wrong Item Shipped",Rejected,2023-12-07
+RR_301000237,OR_31008504,"Late Delivery",Approved,2023-04-05
+RR_301000238,OR_31003677,"Defective Product",Approved,2023-09-02
+RR_301000239,OR_31001174,"Wrong Item Shipped",Approved,2023-07-07
+RR_301000240,OR_31006043,"Defective Product",Rejected,2023-06-09
+RR_301000241,OR_31006356,"Late Delivery",Rejected,2024-04-20
+RR_301000242,OR_31004550,"Defective Product",Rejected,2023-07-07
+RR_301000243,OR_31005508,"Wrong Item Shipped",Approved,2024-01-05
+RR_301000244,OR_31005417,"Wrong Item Shipped",Approved,2024-10-16
+RR_301000245,OR_31005335,"Wrong Item Shipped",Approved,2023-04-24
+RR_301000246,OR_31007228,"Late Delivery",Approved,2024-12-16
+RR_301000247,OR_31007895,"Late Delivery",Approved,2024-12-27
+RR_301000248,OR_31004250,"Late Delivery",Rejected,2023-07-10
+RR_301000249,OR_31003858,"Defective Product",Approved,2023-07-04
+RR_301000250,OR_31002342,"Late Delivery",Approved,2024-01-02
+RR_301000251,OR_31005115,"Late Delivery",Rejected,2023-02-21
+RR_301000252,OR_31004120,"Late Delivery",Rejected,2024-12-14
+RR_301000253,OR_31000889,"Defective Product",Approved,2023-07-20
+RR_301000254,OR_31009936,"Late Delivery",Rejected,2023-10-07
+RR_301000255,OR_31003035,"Wrong Item Shipped",Rejected,2023-05-23
+RR_301000256,OR_31005296,"Defective Product",Rejected,2024-06-04
+RR_301000257,OR_31002951,"Late Delivery",Rejected,2023-09-19
+RR_301000258,OR_31007475,"Wrong Item Shipped",Approved,2024-01-20
+RR_301000259,OR_31002692,"Late Delivery",Rejected,2023-11-07
+RR_301000260,OR_31006407,"Wrong Item Shipped",Rejected,2023-04-08
+RR_301000261,OR_31004850,"Late Delivery",Rejected,2023-07-28
+RR_301000262,OR_31000845,"Late Delivery",Approved,2024-08-04
+RR_301000263,OR_31009092,"Defective Product",Rejected,2023-08-05
+RR_301000264,OR_31005544,"Wrong Item Shipped",Approved,2023-08-29
+RR_301000265,OR_31002164,"Wrong Item Shipped",Approved,2023-07-11
+RR_301000266,OR_31007983,"Defective Product",Rejected,2023-08-20
+RR_301000267,OR_31008542,"Defective Product",Rejected,2023-09-05
+RR_301000268,OR_31009552,"Late Delivery",Approved,2024-10-15
+RR_301000269,OR_31003623,"Defective Product",Rejected,2023-11-24
+RR_301000270,OR_31005303,"Wrong Item Shipped",Approved,2023-10-31
+RR_301000271,OR_31000551,"Wrong Item Shipped",Approved,2024-08-24
+RR_301000272,OR_31007637,"Wrong Item Shipped",Rejected,2024-11-18
+RR_301000273,OR_31005433,"Late Delivery",Approved,2023-10-06
+RR_301000274,OR_31002926,"Wrong Item Shipped",Rejected,2024-10-16
+RR_301000275,OR_31009791,"Wrong Item Shipped",Approved,2024-05-06
+RR_301000276,OR_31002946,"Defective Product",Rejected,2023-09-29
+RR_301000277,OR_31002898,"Late Delivery",Rejected,2023-02-06
+RR_301000278,OR_31004081,"Defective Product",Approved,2023-09-27
+RR_301000279,OR_31007410,"Wrong Item Shipped",Rejected,2024-10-31
+RR_301000280,OR_31003049,"Wrong Item Shipped",Approved,2023-08-09
+RR_301000281,OR_31001844,"Wrong Item Shipped",Approved,2024-12-08
+RR_301000282,OR_31008091,"Wrong Item Shipped",Approved,2024-06-04
+RR_301000283,OR_31005805,"Wrong Item Shipped",Approved,2024-02-27
+RR_301000284,OR_31007746,"Wrong Item Shipped",Rejected,2023-09-02
+RR_301000285,OR_31002548,"Defective Product",Approved,2024-06-21
+RR_301000286,OR_31002441,"Late Delivery",Approved,2023-12-27
+RR_301000287,OR_31004164,"Defective Product",Approved,2023-12-01
+RR_301000288,OR_31008372,"Defective Product",Approved,2024-05-27
+RR_301000289,OR_31004763,"Wrong Item Shipped",Approved,2023-10-17
+RR_301000290,OR_31002242,"Defective Product",Rejected,2023-11-05
+RR_301000291,OR_31006536,"Late Delivery",Approved,2023-06-07
+RR_301000292,OR_31003818,"Wrong Item Shipped",Rejected,2024-03-16
+RR_301000293,OR_31005129,"Defective Product",Rejected,2024-03-12
+RR_301000294,OR_31009488,"Wrong Item Shipped",Rejected,2024-01-22
+RR_301000295,OR_31004126,"Late Delivery",Rejected,2024-01-26
+RR_301000296,OR_31006090,"Wrong Item Shipped",Approved,2023-05-20
+RR_301000297,OR_31007090,"Wrong Item Shipped",Approved,2023-08-04
+RR_301000298,OR_31008888,"Wrong Item Shipped",Approved,2023-12-24
+RR_301000299,OR_31001583,"Late Delivery",Rejected,2024-08-01
+RR_301000300,OR_31001764,"Late Delivery",Approved,2024-04-18
+RR_301000301,OR_31006705,"Late Delivery",Rejected,2024-01-24
+RR_301000302,OR_31006846,"Wrong Item Shipped",Approved,2023-01-22
+RR_301000303,OR_31008049,"Wrong Item Shipped",Approved,2024-04-10
+RR_301000304,OR_31001402,"Late Delivery",Approved,2023-12-22
+RR_301000305,OR_31005787,"Wrong Item Shipped",Rejected,2024-04-20
+RR_301000306,OR_31004155,"Wrong Item Shipped",Rejected,2024-06-08
+RR_301000307,OR_31003116,"Late Delivery",Approved,2023-04-19
+RR_301000308,OR_31003530,"Late Delivery",Approved,2024-06-17
+RR_301000309,OR_31004312,"Wrong Item Shipped",Approved,2023-07-14
+RR_301000310,OR_31008690,"Wrong Item Shipped",Approved,2024-12-19
+RR_301000311,OR_31008551,"Defective Product",Rejected,2023-06-08
+RR_301000312,OR_31008012,"Defective Product",Approved,2023-09-18
+RR_301000313,OR_31002465,"Defective Product",Approved,2024-02-22
+RR_301000314,OR_31001920,"Wrong Item Shipped",Rejected,2023-09-30
+RR_301000315,OR_31008902,"Defective Product",Rejected,2023-11-15
+RR_301000316,OR_31003407,"Late Delivery",Rejected,2024-01-25
+RR_301000317,OR_31009356,"Wrong Item Shipped",Approved,2024-04-11
+RR_301000318,OR_31000036,"Wrong Item Shipped",Rejected,2023-02-26
+RR_301000319,OR_31008543,"Late Delivery",Rejected,2023-01-31
+RR_301000320,OR_31008455,"Wrong Item Shipped",Rejected,2024-11-08
+RR_301000321,OR_31007349,"Wrong Item Shipped",Rejected,2024-06-14
+RR_301000322,OR_31002352,"Defective Product",Rejected,2024-04-21
+RR_301000323,OR_31007304,"Wrong Item Shipped",Rejected,2024-10-26
+RR_301000324,OR_31002709,"Late Delivery",Approved,2024-12-29
+RR_301000325,OR_31007009,"Wrong Item Shipped",Rejected,2023-11-02
+RR_301000326,OR_31000262,"Wrong Item Shipped",Approved,2023-07-29
+RR_301000327,OR_31006981,"Wrong Item Shipped",Rejected,2024-03-26
+RR_301000328,OR_31004308,"Late Delivery",Rejected,2024-10-03
+RR_301000329,OR_31000989,"Defective Product",Rejected,2023-12-11
+RR_301000330,OR_31002604,"Late Delivery",Rejected,2024-01-26
+RR_301000331,OR_31002864,"Defective Product",Approved,2024-01-20
+RR_301000332,OR_31007902,"Wrong Item Shipped",Rejected,2023-07-21
+RR_301000333,OR_31002027,"Late Delivery",Rejected,2023-02-18
+RR_301000334,OR_31004377,"Defective Product",Rejected,2024-10-12
+RR_301000335,OR_31001212,"Defective Product",Approved,2023-06-12
+RR_301000336,OR_31004023,"Defective Product",Approved,2023-04-22
+RR_301000337,OR_31002840,"Defective Product",Rejected,2023-10-06
+RR_301000338,OR_31004657,"Defective Product",Rejected,2024-01-07
+RR_301000339,OR_31008937,"Late Delivery",Rejected,2024-08-17
+RR_301000340,OR_31000728,"Wrong Item Shipped",Approved,2024-01-17
+RR_301000341,OR_31000920,"Wrong Item Shipped",Rejected,2024-02-06
+RR_301000342,OR_31004417,"Wrong Item Shipped",Rejected,2024-11-23
+RR_301000343,OR_31002125,"Wrong Item Shipped",Rejected,2023-05-24
+RR_301000344,OR_31004790,"Defective Product",Approved,2024-10-21
+RR_301000345,OR_31004982,"Wrong Item Shipped",Approved,2024-07-14
+RR_301000346,OR_31005898,"Defective Product",Rejected,2024-01-21
+RR_301000347,OR_31009482,"Wrong Item Shipped",Rejected,2024-05-13
+RR_301000348,OR_31002150,"Wrong Item Shipped",Approved,2023-01-07
+RR_301000349,OR_31007773,"Late Delivery",Approved,2024-06-04
+RR_301000350,OR_31008679,"Defective Product",Rejected,2024-10-14
+RR_301000351,OR_31006227,"Defective Product",Approved,2024-07-17
+RR_301000352,OR_31008635,"Late Delivery",Rejected,2023-06-23
+RR_301000353,OR_31004792,"Wrong Item Shipped",Rejected,2024-04-09
+RR_301000354,OR_31001939,"Wrong Item Shipped",Approved,2023-01-04
+RR_301000355,OR_31008667,"Late Delivery",Approved,2024-01-08
+RR_301000356,OR_31002684,"Defective Product",Approved,2023-12-13
+RR_301000357,OR_31002714,"Defective Product",Approved,2024-03-03
+RR_301000358,OR_31001456,"Wrong Item Shipped",Approved,2023-02-22
+RR_301000359,OR_31001465,"Late Delivery",Rejected,2023-10-22
+RR_301000360,OR_31003301,"Defective Product",Rejected,2024-01-28
+RR_301000361,OR_31000577,"Wrong Item Shipped",Approved,2024-03-18
+RR_301000362,OR_31002822,"Late Delivery",Rejected,2024-10-13
+RR_301000363,OR_31009976,"Wrong Item Shipped",Approved,2024-01-02
+RR_301000364,OR_31008734,"Defective Product",Approved,2024-10-07
+RR_301000365,OR_31003417,"Wrong Item Shipped",Approved,2024-07-09
+RR_301000366,OR_31003106,"Wrong Item Shipped",Rejected,2024-02-12
+RR_301000367,OR_31009973,"Defective Product",Rejected,2023-07-08
+RR_301000368,OR_31002095,"Wrong Item Shipped",Approved,2023-06-04
+RR_301000369,OR_31003398,"Wrong Item Shipped",Rejected,2023-05-28
+RR_301000370,OR_31008125,"Defective Product",Approved,2024-08-02
+RR_301000371,OR_31001569,"Defective Product",Rejected,2024-08-08
+RR_301000372,OR_31007000,"Wrong Item Shipped",Approved,2024-02-21
+RR_301000373,OR_31000306,"Wrong Item Shipped",Approved,2024-02-02
+RR_301000374,OR_31005046,"Defective Product",Rejected,2023-08-14
+RR_301000375,OR_31007234,"Defective Product",Rejected,2024-02-03
+RR_301000376,OR_31002814,"Wrong Item Shipped",Approved,2023-12-14
+RR_301000377,OR_31007796,"Late Delivery",Approved,2024-03-11
+RR_301000378,OR_31006963,"Late Delivery",Approved,2024-06-04
+RR_301000379,OR_31009041,"Late Delivery",Approved,2023-11-06
+RR_301000380,OR_31005312,"Late Delivery",Rejected,2023-11-26
+RR_301000381,OR_31008982,"Defective Product",Rejected,2024-09-26
+RR_301000382,OR_31007087,"Wrong Item Shipped",Approved,2023-09-25
+RR_301000383,OR_31000294,"Wrong Item Shipped",Rejected,2024-01-15
+RR_301000384,OR_31003189,"Wrong Item Shipped",Rejected,2023-04-29
+RR_301000385,OR_31001429,"Wrong Item Shipped",Rejected,2023-11-17
+RR_301000386,OR_31000009,"Late Delivery",Approved,2023-12-15
+RR_301000387,OR_31009727,"Wrong Item Shipped",Approved,2023-11-16
+RR_301000388,OR_31006193,"Late Delivery",Approved,2024-06-13
+RR_301000389,OR_31009414,"Late Delivery",Rejected,2024-03-03
+RR_301000390,OR_31009302,"Defective Product",Rejected,2024-09-18
+RR_301000391,OR_31008275,"Late Delivery",Rejected,2024-11-17
+RR_301000392,OR_31002670,"Defective Product",Approved,2023-06-07
+RR_301000393,OR_31000583,"Late Delivery",Rejected,2023-07-12
+RR_301000394,OR_31003818,"Late Delivery",Approved,2024-05-30
+RR_301000395,OR_31004044,"Defective Product",Approved,2023-05-16
+RR_301000396,OR_31007597,"Defective Product",Rejected,2023-03-28
+RR_301000397,OR_31000016,"Defective Product",Approved,2023-02-20
+RR_301000398,OR_31007958,"Defective Product",Rejected,2023-09-19
+RR_301000399,OR_31004058,"Defective Product",Approved,2023-06-30
+RR_301000400,OR_31008633,"Wrong Item Shipped",Rejected,2024-02-16
+RR_301000401,OR_31009798,"Late Delivery",Rejected,2024-05-29
+RR_301000402,OR_31004859,"Wrong Item Shipped",Rejected,2024-04-15
+RR_301000403,OR_31007578,"Defective Product",Rejected,2024-12-11
+RR_301000404,OR_31006556,"Late Delivery",Approved,2023-06-29
+RR_301000405,OR_31004075,"Late Delivery",Rejected,2024-01-16
+RR_301000406,OR_31004196,"Late Delivery",Rejected,2024-05-04
+RR_301000407,OR_31006435,"Late Delivery",Rejected,2024-02-06
+RR_301000408,OR_31003880,"Defective Product",Rejected,2023-07-14
+RR_301000409,OR_31008749,"Late Delivery",Approved,2024-03-12
+RR_301000410,OR_31004300,"Defective Product",Rejected,2023-12-08
+RR_301000411,OR_31006759,"Wrong Item Shipped",Approved,2024-11-01
+RR_301000412,OR_31007029,"Late Delivery",Approved,2024-07-15
+RR_301000413,OR_31009821,"Defective Product",Approved,2023-09-21
+RR_301000414,OR_31007053,"Late Delivery",Rejected,2023-03-13
+RR_301000415,OR_31008721,"Wrong Item Shipped",Approved,2024-01-03
+RR_301000416,OR_31004439,"Defective Product",Approved,2024-08-01
+RR_301000417,OR_31006395,"Late Delivery",Rejected,2023-08-21
+RR_301000418,OR_31005552,"Wrong Item Shipped",Approved,2023-03-18
+RR_301000419,OR_31002585,"Late Delivery",Rejected,2023-03-09
+RR_301000420,OR_31005181,"Wrong Item Shipped",Approved,2023-10-20
+RR_301000421,OR_31008452,"Defective Product",Approved,2023-02-23
+RR_301000422,OR_31003060,"Late Delivery",Approved,2023-11-15
+RR_301000423,OR_31000631,"Wrong Item Shipped",Rejected,2023-03-06
+RR_301000424,OR_31008194,"Defective Product",Rejected,2024-10-09
+RR_301000425,OR_31006456,"Late Delivery",Approved,2023-01-09
+RR_301000426,OR_31008122,"Late Delivery",Rejected,2024-05-26
+RR_301000427,OR_31005267,"Wrong Item Shipped",Rejected,2024-01-13
+RR_301000428,OR_31001719,"Late Delivery",Approved,2023-09-22
+RR_301000429,OR_31003223,"Wrong Item Shipped",Rejected,2024-12-11
+RR_301000430,OR_31004204,"Wrong Item Shipped",Rejected,2024-03-15
+RR_301000431,OR_31009173,"Late Delivery",Rejected,2024-01-18
+RR_301000432,OR_31001732,"Late Delivery",Approved,2023-09-28
+RR_301000433,OR_31000460,"Defective Product",Approved,2023-12-15
+RR_301000434,OR_31005128,"Late Delivery",Approved,2023-01-25
+RR_301000435,OR_31001676,"Late Delivery",Approved,2024-04-06
+RR_301000436,OR_31008694,"Defective Product",Approved,2024-09-13
+RR_301000437,OR_31007873,"Wrong Item Shipped",Rejected,2023-04-25
+RR_301000438,OR_31006495,"Defective Product",Rejected,2023-07-20
+RR_301000439,OR_31002655,"Late Delivery",Approved,2024-01-09
+RR_301000440,OR_31002355,"Late Delivery",Rejected,2024-11-24
+RR_301000441,OR_31007873,"Wrong Item Shipped",Approved,2024-10-14
+RR_301000442,OR_31001221,"Wrong Item Shipped",Rejected,2023-05-02
+RR_301000443,OR_31003789,"Defective Product",Rejected,2024-10-29
+RR_301000444,OR_31001595,"Wrong Item Shipped",Approved,2023-09-02
+RR_301000445,OR_31008282,"Late Delivery",Approved,2024-05-05
+RR_301000446,OR_31006498,"Late Delivery",Rejected,2023-10-25
+RR_301000447,OR_31007024,"Wrong Item Shipped",Approved,2023-03-20
+RR_301000448,OR_31000149,"Defective Product",Rejected,2023-01-31
+RR_301000449,OR_31009902,"Defective Product",Approved,2024-04-05
+RR_301000450,OR_31001052,"Wrong Item Shipped",Rejected,2024-09-24
+RR_301000451,OR_31001398,"Defective Product",Rejected,2023-09-03
+RR_301000452,OR_31005775,"Late Delivery",Approved,2024-04-19
+RR_301000453,OR_31004310,"Defective Product",Approved,2024-11-13
+RR_301000454,OR_31004326,"Late Delivery",Rejected,2024-01-15
+RR_301000455,OR_31000391,"Late Delivery",Approved,2024-07-07
+RR_301000456,OR_31007993,"Defective Product",Rejected,2023-03-29
+RR_301000457,OR_31004069,"Wrong Item Shipped",Approved,2023-02-13
+RR_301000458,OR_31000541,"Late Delivery",Approved,2024-12-23
+RR_301000459,OR_31008442,"Defective Product",Rejected,2024-03-10
+RR_301000460,OR_31004061,"Defective Product",Rejected,2024-01-12
+RR_301000461,OR_31006906,"Late Delivery",Rejected,2024-01-30
+RR_301000462,OR_31003809,"Defective Product",Rejected,2023-12-05
+RR_301000463,OR_31000229,"Late Delivery",Rejected,2024-01-28
+RR_301000464,OR_31009488,"Wrong Item Shipped",Rejected,2023-04-17
+RR_301000465,OR_31003063,"Late Delivery",Rejected,2024-12-13
+RR_301000466,OR_31003031,"Late Delivery",Rejected,2023-03-30
+RR_301000467,OR_31006141,"Wrong Item Shipped",Approved,2023-11-05
+RR_301000468,OR_31000863,"Late Delivery",Rejected,2023-07-15
+RR_301000469,OR_31001436,"Late Delivery",Approved,2024-07-16
+RR_301000470,OR_31002060,"Wrong Item Shipped",Rejected,2024-05-10
+RR_301000471,OR_31007660,"Wrong Item Shipped",Approved,2023-02-02
+RR_301000472,OR_31000175,"Defective Product",Rejected,2024-05-09
+RR_301000473,OR_31002644,"Wrong Item Shipped",Approved,2023-08-05
+RR_301000474,OR_31001204,"Wrong Item Shipped",Approved,2023-01-11
+RR_301000475,OR_31000013,"Defective Product",Approved,2024-11-29
+RR_301000476,OR_31004597,"Wrong Item Shipped",Approved,2023-02-09
+RR_301000477,OR_31006400,"Wrong Item Shipped",Approved,2024-01-18
+RR_301000478,OR_31000462,"Defective Product",Approved,2023-06-26
+RR_301000479,OR_31002897,"Defective Product",Rejected,2023-04-19
+RR_301000480,OR_31005083,"Wrong Item Shipped",Rejected,2024-09-19
+RR_301000481,OR_31004359,"Defective Product",Rejected,2024-04-18
+RR_301000482,OR_31005254,"Late Delivery",Approved,2023-11-14
+RR_301000483,OR_31001824,"Defective Product",Approved,2023-04-14
+RR_301000484,OR_31004361,"Wrong Item Shipped",Rejected,2024-08-03
+RR_301000485,OR_31006352,"Late Delivery",Rejected,2024-12-13
+RR_301000486,OR_31007020,"Late Delivery",Approved,2023-06-05
+RR_301000487,OR_31002519,"Wrong Item Shipped",Rejected,2024-10-02
+RR_301000488,OR_31005259,"Defective Product",Approved,2024-07-28
+RR_301000489,OR_31009094,"Late Delivery",Approved,2023-01-09
+RR_301000490,OR_31001213,"Defective Product",Approved,2024-05-29
+RR_301000491,OR_31002704,"Late Delivery",Rejected,2023-01-10
+RR_301000492,OR_31001524,"Late Delivery",Rejected,2023-04-24
+RR_301000493,OR_31009592,"Late Delivery",Approved,2024-04-12
+RR_301000494,OR_31005709,"Late Delivery",Rejected,2024-12-31
+RR_301000495,OR_31001036,"Late Delivery",Approved,2023-07-04
+RR_301000496,OR_31000162,"Wrong Item Shipped",Approved,2023-05-05
+RR_301000497,OR_31002999,"Defective Product",Approved,2024-03-05
+RR_301000498,OR_31008394,"Late Delivery",Rejected,2023-09-17
+RR_301000499,OR_31007165,"Defective Product",Approved,2023-01-22
+RR_301000500,OR_31009570,"Wrong Item Shipped",Approved,2024-09-19
+RR_301000501,OR_31009530,"Wrong Item Shipped",Rejected,2024-01-12
+RR_301000502,OR_31008590,"Defective Product",Rejected,2023-10-20
+RR_301000503,OR_31004159,"Wrong Item Shipped",Rejected,2024-06-13
+RR_301000504,OR_31001762,"Late Delivery",Rejected,2023-02-08
+RR_301000505,OR_31007429,"Wrong Item Shipped",Approved,2023-05-27
+RR_301000506,OR_31002004,"Late Delivery",Rejected,2024-08-29
+RR_301000507,OR_31000063,"Late Delivery",Rejected,2023-04-22
+RR_301000508,OR_31007155,"Late Delivery",Rejected,2024-10-09
+RR_301000509,OR_31001331,"Wrong Item Shipped",Approved,2023-03-18
+RR_301000510,OR_31007743,"Late Delivery",Approved,2023-05-12
+RR_301000511,OR_31006584,"Late Delivery",Approved,2023-08-25
+RR_301000512,OR_31005103,"Defective Product",Rejected,2024-04-04
+RR_301000513,OR_31001050,"Late Delivery",Approved,2024-12-27
+RR_301000514,OR_31005708,"Defective Product",Rejected,2023-07-03
+RR_301000515,OR_31009189,"Defective Product",Rejected,2024-04-27
+RR_301000516,OR_31003115,"Wrong Item Shipped",Approved,2024-07-16
+RR_301000517,OR_31002552,"Late Delivery",Approved,2023-06-05
+RR_301000518,OR_31004577,"Late Delivery",Rejected,2024-06-04
+RR_301000519,OR_31003982,"Late Delivery",Approved,2023-02-18
+RR_301000520,OR_31008130,"Wrong Item Shipped",Rejected,2024-11-20
+RR_301000521,OR_31009141,"Wrong Item Shipped",Rejected,2023-07-03
+RR_301000522,OR_31003689,"Defective Product",Approved,2023-04-02
+RR_301000523,OR_31009243,"Late Delivery",Rejected,2024-07-24
+RR_301000524,OR_31009469,"Defective Product",Rejected,2024-12-14
+RR_301000525,OR_31003653,"Defective Product",Rejected,2024-07-24
+RR_301000526,OR_31000177,"Wrong Item Shipped",Rejected,2023-03-02
+RR_301000527,OR_31005139,"Defective Product",Approved,2023-12-22
+RR_301000528,OR_31004241,"Defective Product",Approved,2023-11-14
+RR_301000529,OR_31001254,"Late Delivery",Approved,2023-01-15
+RR_301000530,OR_31006838,"Late Delivery",Rejected,2024-05-19
+RR_301000531,OR_31000474,"Late Delivery",Rejected,2024-12-28
+RR_301000532,OR_31009750,"Defective Product",Rejected,2023-11-06
+RR_301000533,OR_31006577,"Wrong Item Shipped",Rejected,2023-01-10
+RR_301000534,OR_31006147,"Defective Product",Approved,2023-07-09
+RR_301000535,OR_31008590,"Late Delivery",Approved,2023-06-21
+RR_301000536,OR_31005815,"Late Delivery",Rejected,2024-09-05
+RR_301000537,OR_31002957,"Defective Product",Rejected,2023-06-19
+RR_301000538,OR_31005400,"Wrong Item Shipped",Approved,2023-11-10
+RR_301000539,OR_31006044,"Wrong Item Shipped",Rejected,2024-01-21
+RR_301000540,OR_31001965,"Defective Product",Rejected,2024-02-29
+RR_301000541,OR_31009237,"Wrong Item Shipped",Approved,2023-10-28
+RR_301000542,OR_31004004,"Late Delivery",Approved,2024-01-27
+RR_301000543,OR_31003334,"Defective Product",Approved,2023-07-16
+RR_301000544,OR_31008106,"Defective Product",Rejected,2023-03-01
+RR_301000545,OR_31008264,"Defective Product",Rejected,2023-05-28
+RR_301000546,OR_31006557,"Late Delivery",Rejected,2024-03-22
+RR_301000547,OR_31003268,"Defective Product",Approved,2024-03-19
+RR_301000548,OR_31005426,"Late Delivery",Rejected,2024-01-13
+RR_301000549,OR_31001548,"Late Delivery",Approved,2023-09-29
+RR_301000550,OR_31009686,"Defective Product",Rejected,2023-03-22
+RR_301000551,OR_31001879,"Defective Product",Rejected,2023-12-03
+RR_301000552,OR_31008864,"Late Delivery",Approved,2023-02-28
+RR_301000553,OR_31004455,"Late Delivery",Approved,2023-06-04
+RR_301000554,OR_31000174,"Wrong Item Shipped",Rejected,2023-07-03
+RR_301000555,OR_31000450,"Late Delivery",Approved,2023-04-05
+RR_301000556,OR_31009462,"Defective Product",Approved,2023-12-02
+RR_301000557,OR_31004275,"Defective Product",Rejected,2024-08-17
+RR_301000558,OR_31004005,"Late Delivery",Rejected,2024-06-27
+RR_301000559,OR_31001527,"Defective Product",Rejected,2024-01-28
+RR_301000560,OR_31003140,"Defective Product",Rejected,2024-06-19
+RR_301000561,OR_31008139,"Late Delivery",Rejected,2024-09-11
+RR_301000562,OR_31007824,"Defective Product",Approved,2024-11-19
+RR_301000563,OR_31001494,"Defective Product",Rejected,2024-01-19
+RR_301000564,OR_31001594,"Defective Product",Rejected,2023-02-19
+RR_301000565,OR_31004629,"Late Delivery",Approved,2023-03-24
+RR_301000566,OR_31000305,"Defective Product",Rejected,2024-12-06
+RR_301000567,OR_31009105,"Late Delivery",Rejected,2024-03-08
+RR_301000568,OR_31004530,"Defective Product",Approved,2024-12-01
+RR_301000569,OR_31008083,"Wrong Item Shipped",Approved,2023-06-27
+RR_301000570,OR_31008635,"Wrong Item Shipped",Rejected,2023-12-24
+RR_301000571,OR_31003190,"Wrong Item Shipped",Approved,2024-10-01
+RR_301000572,OR_31008752,"Wrong Item Shipped",Rejected,2023-01-26
+RR_301000573,OR_31002029,"Wrong Item Shipped",Approved,2024-02-23
+RR_301000574,OR_31000350,"Defective Product",Approved,2023-02-11
+RR_301000575,OR_31009198,"Defective Product",Approved,2023-03-05
+RR_301000576,OR_31006416,"Late Delivery",Rejected,2023-01-09
+RR_301000577,OR_31009209,"Defective Product",Rejected,2023-05-17
+RR_301000578,OR_31007533,"Late Delivery",Rejected,2024-12-05
+RR_301000579,OR_31007734,"Wrong Item Shipped",Rejected,2024-09-23
+RR_301000580,OR_31009489,"Wrong Item Shipped",Rejected,2024-07-25
+RR_301000581,OR_31001051,"Defective Product",Approved,2023-12-20
+RR_301000582,OR_31001059,"Wrong Item Shipped",Rejected,2024-08-27
+RR_301000583,OR_31008495,"Defective Product",Approved,2024-04-08
+RR_301000584,OR_31004209,"Defective Product",Rejected,2023-03-18
+RR_301000585,OR_31000091,"Defective Product",Approved,2023-10-19
+RR_301000586,OR_31007690,"Late Delivery",Rejected,2023-09-07
+RR_301000587,OR_31006339,"Defective Product",Rejected,2024-08-30
+RR_301000588,OR_31001818,"Defective Product",Approved,2024-09-18
+RR_301000589,OR_31007113,"Late Delivery",Approved,2024-06-02
+RR_301000590,OR_31002452,"Wrong Item Shipped",Rejected,2024-07-31
+RR_301000591,OR_31000281,"Wrong Item Shipped",Rejected,2024-09-24
+RR_301000592,OR_31003568,"Wrong Item Shipped",Approved,2023-09-07
+RR_301000593,OR_31006551,"Late Delivery",Rejected,2024-04-22
+RR_301000594,OR_31008719,"Defective Product",Rejected,2024-05-15
+RR_301000595,OR_31009783,"Defective Product",Rejected,2024-12-25
+RR_301000596,OR_31004253,"Late Delivery",Rejected,2024-07-19
+RR_301000597,OR_31008017,"Wrong Item Shipped",Approved,2023-08-22
+RR_301000598,OR_31001971,"Wrong Item Shipped",Rejected,2023-07-14
+RR_301000599,OR_31001246,"Wrong Item Shipped",Approved,2023-12-29
+RR_301000600,OR_31008093,"Defective Product",Approved,2023-11-20
+RR_301000601,OR_31001673,"Defective Product",Approved,2023-10-28
+RR_301000602,OR_31001110,"Defective Product",Approved,2023-03-31
+RR_301000603,OR_31004671,"Late Delivery",Rejected,2024-11-02
+RR_301000604,OR_31001274,"Wrong Item Shipped",Rejected,2023-06-02
+RR_301000605,OR_31000626,"Wrong Item Shipped",Rejected,2024-07-30
+RR_301000606,OR_31001637,"Late Delivery",Approved,2024-10-08
+RR_301000607,OR_31000720,"Late Delivery",Approved,2023-11-10
+RR_301000608,OR_31004047,"Late Delivery",Rejected,2023-10-13
+RR_301000609,OR_31004013,"Defective Product",Approved,2024-11-05
+RR_301000610,OR_31000625,"Defective Product",Rejected,2023-04-09
+RR_301000611,OR_31001014,"Defective Product",Rejected,2024-02-29
+RR_301000612,OR_31002358,"Late Delivery",Approved,2024-02-07
+RR_301000613,OR_31006798,"Wrong Item Shipped",Approved,2024-02-07
+RR_301000614,OR_31004263,"Wrong Item Shipped",Approved,2023-08-10
+RR_301000615,OR_31009484,"Late Delivery",Rejected,2024-08-29
+RR_301000616,OR_31005520,"Late Delivery",Approved,2024-01-10
+RR_301000617,OR_31002805,"Defective Product",Approved,2024-12-02
+RR_301000618,OR_31000329,"Defective Product",Approved,2024-09-13
+RR_301000619,OR_31003590,"Late Delivery",Approved,2024-03-17
+RR_301000620,OR_31009628,"Late Delivery",Rejected,2023-12-30
+RR_301000621,OR_31008137,"Defective Product",Rejected,2024-02-21
+RR_301000622,OR_31009385,"Late Delivery",Rejected,2023-04-17
+RR_301000623,OR_31005474,"Defective Product",Approved,2023-10-14
+RR_301000624,OR_31008222,"Defective Product",Rejected,2023-07-18
+RR_301000625,OR_31009082,"Wrong Item Shipped",Approved,2023-01-12
+RR_301000626,OR_31006648,"Late Delivery",Rejected,2023-08-01
+RR_301000627,OR_31000490,"Wrong Item Shipped",Rejected,2024-07-22
+RR_301000628,OR_31005684,"Defective Product",Approved,2024-10-16
+RR_301000629,OR_31006540,"Wrong Item Shipped",Rejected,2024-12-23
+RR_301000630,OR_31003386,"Wrong Item Shipped",Approved,2023-08-09
+RR_301000631,OR_31000636,"Late Delivery",Approved,2024-02-27
+RR_301000632,OR_31006272,"Defective Product",Approved,2024-09-25
+RR_301000633,OR_31003902,"Late Delivery",Approved,2024-12-05
+RR_301000634,OR_31006698,"Defective Product",Approved,2024-01-29
+RR_301000635,OR_31000949,"Defective Product",Rejected,2024-11-25
+RR_301000636,OR_31001892,"Wrong Item Shipped",Approved,2024-06-13
+RR_301000637,OR_31007645,"Wrong Item Shipped",Rejected,2023-08-20
+RR_301000638,OR_31002107,"Wrong Item Shipped",Rejected,2024-05-04
+RR_301000639,OR_31009955,"Wrong Item Shipped",Rejected,2023-10-02
+RR_301000640,OR_31008541,"Wrong Item Shipped",Approved,2023-11-03
+RR_301000641,OR_31002999,"Late Delivery",Rejected,2024-02-07
+RR_301000642,OR_31002650,"Late Delivery",Rejected,2024-10-22
+RR_301000643,OR_31005205,"Wrong Item Shipped",Rejected,2023-09-19
+RR_301000644,OR_31009819,"Late Delivery",Approved,2024-11-24
+RR_301000645,OR_31007133,"Wrong Item Shipped",Rejected,2024-03-23
+RR_301000646,OR_31000618,"Late Delivery",Rejected,2023-07-14
+RR_301000647,OR_31001643,"Defective Product",Approved,2023-10-16
+RR_301000648,OR_31005065,"Wrong Item Shipped",Approved,2023-03-13
+RR_301000649,OR_31007908,"Late Delivery",Rejected,2024-12-23
+RR_301000650,OR_31002936,"Late Delivery",Approved,2024-01-06
+RR_301000651,OR_31002431,"Wrong Item Shipped",Rejected,2023-09-14
+RR_301000652,OR_31005338,"Defective Product",Approved,2023-10-07
+RR_301000653,OR_31003869,"Late Delivery",Approved,2024-12-05
+RR_301000654,OR_31009477,"Defective Product",Approved,2023-11-26
+RR_301000655,OR_31004928,"Wrong Item Shipped",Rejected,2024-01-03
+RR_301000656,OR_31002630,"Wrong Item Shipped",Approved,2024-01-30
+RR_301000657,OR_31008745,"Late Delivery",Rejected,2023-09-17
+RR_301000658,OR_31009539,"Late Delivery",Rejected,2023-03-01
+RR_301000659,OR_31000304,"Defective Product",Approved,2023-02-18
+RR_301000660,OR_31008647,"Wrong Item Shipped",Rejected,2023-08-18
+RR_301000661,OR_31003704,"Late Delivery",Rejected,2023-09-18
+RR_301000662,OR_31007578,"Defective Product",Approved,2023-02-03
+RR_301000663,OR_31003755,"Late Delivery",Rejected,2023-02-24
+RR_301000664,OR_31004623,"Wrong Item Shipped",Rejected,2024-02-23
+RR_301000665,OR_31002981,"Defective Product",Approved,2023-07-02
+RR_301000666,OR_31001144,"Defective Product",Rejected,2023-03-06
+RR_301000667,OR_31007589,"Late Delivery",Approved,2024-12-08
+RR_301000668,OR_31005275,"Wrong Item Shipped",Rejected,2023-07-14
+RR_301000669,OR_31007633,"Wrong Item Shipped",Approved,2023-09-26
+RR_301000670,OR_31001793,"Wrong Item Shipped",Approved,2024-10-14
+RR_301000671,OR_31001494,"Late Delivery",Approved,2023-02-17
+RR_301000672,OR_31002599,"Late Delivery",Rejected,2024-03-08
+RR_301000673,OR_31007013,"Defective Product",Rejected,2023-09-20
+RR_301000674,OR_31005653,"Defective Product",Approved,2024-05-10
+RR_301000675,OR_31009724,"Late Delivery",Rejected,2023-09-15
+RR_301000676,OR_31005713,"Late Delivery",Approved,2023-03-26
+RR_301000677,OR_31006644,"Defective Product",Rejected,2023-08-01
+RR_301000678,OR_31001378,"Defective Product",Rejected,2023-09-12
+RR_301000679,OR_31008247,"Wrong Item Shipped",Rejected,2023-02-06
+RR_301000680,OR_31006661,"Defective Product",Rejected,2023-12-15
+RR_301000681,OR_31007697,"Wrong Item Shipped",Approved,2023-02-18
+RR_301000682,OR_31005583,"Late Delivery",Rejected,2023-11-11
+RR_301000683,OR_31003430,"Late Delivery",Approved,2024-04-20
+RR_301000684,OR_31004228,"Defective Product",Approved,2023-01-19
+RR_301000685,OR_31001992,"Late Delivery",Approved,2024-02-16
+RR_301000686,OR_31008740,"Wrong Item Shipped",Rejected,2023-12-07
+RR_301000687,OR_31006042,"Late Delivery",Rejected,2024-11-12
+RR_301000688,OR_31002383,"Wrong Item Shipped",Rejected,2024-03-05
+RR_301000689,OR_31009398,"Late Delivery",Rejected,2023-12-14
+RR_301000690,OR_31003082,"Late Delivery",Rejected,2024-10-05
+RR_301000691,OR_31004233,"Wrong Item Shipped",Approved,2024-09-16
+RR_301000692,OR_31006076,"Defective Product",Rejected,2023-03-29
+RR_301000693,OR_31006314,"Defective Product",Approved,2023-09-26
+RR_301000694,OR_31000798,"Late Delivery",Approved,2023-03-15
+RR_301000695,OR_31006246,"Wrong Item Shipped",Rejected,2024-02-18
+RR_301000696,OR_31005239,"Defective Product",Approved,2024-10-14
+RR_301000697,OR_31001823,"Wrong Item Shipped",Rejected,2023-10-28
+RR_301000698,OR_31009372,"Late Delivery",Approved,2024-05-27
+RR_301000699,OR_31003205,"Defective Product",Rejected,2023-04-07
+RR_301000700,OR_31001986,"Late Delivery",Approved,2023-03-31
+RR_301000701,OR_31009383,"Late Delivery",Rejected,2024-07-02
+RR_301000702,OR_31005691,"Defective Product",Approved,2024-09-04
+RR_301000703,OR_31005934,"Defective Product",Approved,2024-03-26
+RR_301000704,OR_31001732,"Wrong Item Shipped",Approved,2024-04-14
+RR_301000705,OR_31007464,"Defective Product",Approved,2024-04-12
+RR_301000706,OR_31002844,"Late Delivery",Rejected,2023-10-31
+RR_301000707,OR_31006794,"Defective Product",Rejected,2023-09-25
+RR_301000708,OR_31005397,"Late Delivery",Rejected,2023-04-29
+RR_301000709,OR_31008665,"Late Delivery",Approved,2024-11-01
+RR_301000710,OR_31008507,"Defective Product",Rejected,2024-07-15
+RR_301000711,OR_31000130,"Late Delivery",Rejected,2023-08-18
+RR_301000712,OR_31004894,"Wrong Item Shipped",Approved,2023-05-25
+RR_301000713,OR_31006346,"Late Delivery",Approved,2024-12-18
+RR_301000714,OR_31001875,"Defective Product",Rejected,2024-05-11
+RR_301000715,OR_31002633,"Defective Product",Approved,2023-04-25
+RR_301000716,OR_31000755,"Wrong Item Shipped",Rejected,2024-06-14
+RR_301000717,OR_31009164,"Wrong Item Shipped",Approved,2023-12-07
+RR_301000718,OR_31001390,"Late Delivery",Rejected,2024-01-21
+RR_301000719,OR_31004560,"Wrong Item Shipped",Rejected,2024-10-07
+RR_301000720,OR_31002619,"Defective Product",Rejected,2023-03-31
+RR_301000721,OR_31006298,"Late Delivery",Rejected,2023-09-25
+RR_301000722,OR_31009387,"Defective Product",Rejected,2024-04-21
+RR_301000723,OR_31003751,"Wrong Item Shipped",Rejected,2024-12-09
+RR_301000724,OR_31002944,"Defective Product",Rejected,2023-05-04
+RR_301000725,OR_31003950,"Defective Product",Approved,2024-08-15
+RR_301000726,OR_31003437,"Wrong Item Shipped",Rejected,2024-10-07
+RR_301000727,OR_31003994,"Wrong Item Shipped",Approved,2023-12-04
+RR_301000728,OR_31005989,"Wrong Item Shipped",Approved,2023-01-16
+RR_301000729,OR_31007509,"Late Delivery",Rejected,2023-10-02
+RR_301000730,OR_31000056,"Defective Product",Rejected,2023-06-14
+RR_301000731,OR_31002238,"Wrong Item Shipped",Approved,2024-04-03
+RR_301000732,OR_31008142,"Defective Product",Approved,2023-08-21
+RR_301000733,OR_31001593,"Defective Product",Rejected,2024-08-26
+RR_301000734,OR_31004796,"Wrong Item Shipped",Rejected,2024-02-24
+RR_301000735,OR_31000876,"Defective Product",Approved,2024-10-30
+RR_301000736,OR_31000441,"Wrong Item Shipped",Approved,2024-08-26
+RR_301000737,OR_31005927,"Defective Product",Approved,2023-11-29
+RR_301000738,OR_31003546,"Late Delivery",Approved,2023-11-04
+RR_301000739,OR_31002465,"Wrong Item Shipped",Approved,2024-05-29
+RR_301000740,OR_31005077,"Late Delivery",Rejected,2023-07-14
+RR_301000741,OR_31007504,"Wrong Item Shipped",Rejected,2023-08-14
+RR_301000742,OR_31008033,"Defective Product",Rejected,2023-07-24
+RR_301000743,OR_31005486,"Defective Product",Approved,2024-04-09
+RR_301000744,OR_31006847,"Wrong Item Shipped",Approved,2023-07-07
+RR_301000745,OR_31004345,"Late Delivery",Approved,2023-12-01
+RR_301000746,OR_31006251,"Defective Product",Rejected,2024-04-06
+RR_301000747,OR_31000730,"Defective Product",Approved,2024-12-28
+RR_301000748,OR_31002835,"Defective Product",Approved,2024-10-06
+RR_301000749,OR_31000302,"Defective Product",Approved,2023-01-17
+RR_301000750,OR_31001643,"Defective Product",Rejected,2024-02-10
+RR_301000751,OR_31009720,"Defective Product",Approved,2024-03-14
+RR_301000752,OR_31007387,"Late Delivery",Approved,2023-01-30
+RR_301000753,OR_31000699,"Late Delivery",Rejected,2023-05-01
+RR_301000754,OR_31006112,"Wrong Item Shipped",Rejected,2024-08-30
+RR_301000755,OR_31009635,"Defective Product",Rejected,2023-09-21
+RR_301000756,OR_31006488,"Late Delivery",Approved,2024-11-04
+RR_301000757,OR_31006234,"Defective Product",Rejected,2024-03-22
+RR_301000758,OR_31001091,"Defective Product",Rejected,2024-12-09
+RR_301000759,OR_31004774,"Defective Product",Approved,2023-03-11
+RR_301000760,OR_31001306,"Defective Product",Rejected,2024-02-26
+RR_301000761,OR_31004280,"Defective Product",Rejected,2024-08-11
+RR_301000762,OR_31007305,"Late Delivery",Rejected,2024-11-01
+RR_301000763,OR_31008059,"Wrong Item Shipped",Approved,2023-05-02
+RR_301000764,OR_31001744,"Defective Product",Rejected,2024-10-25
+RR_301000765,OR_31007495,"Late Delivery",Rejected,2024-10-22
+RR_301000766,OR_31008314,"Defective Product",Approved,2024-11-24
+RR_301000767,OR_31000278,"Wrong Item Shipped",Approved,2024-06-22
+RR_301000768,OR_31001267,"Wrong Item Shipped",Rejected,2024-07-16
+RR_301000769,OR_31007257,"Wrong Item Shipped",Approved,2023-07-21
+RR_301000770,OR_31008425,"Late Delivery",Approved,2024-02-23
+RR_301000771,OR_31007556,"Defective Product",Approved,2024-01-05
+RR_301000772,OR_31007538,"Late Delivery",Rejected,2024-10-10
+RR_301000773,OR_31004200,"Defective Product",Rejected,2024-10-21
+RR_301000774,OR_31000190,"Late Delivery",Approved,2024-02-05
+RR_301000775,OR_31003331,"Defective Product",Rejected,2024-07-17
+RR_301000776,OR_31008014,"Defective Product",Approved,2023-02-18
+RR_301000777,OR_31003553,"Wrong Item Shipped",Approved,2024-10-05
+RR_301000778,OR_31001360,"Defective Product",Approved,2023-04-27
+RR_301000779,OR_31003482,"Late Delivery",Rejected,2023-09-09
+RR_301000780,OR_31001867,"Wrong Item Shipped",Rejected,2023-03-27
+RR_301000781,OR_31008468,"Wrong Item Shipped",Rejected,2024-06-26
+RR_301000782,OR_31000029,"Defective Product",Rejected,2023-03-10
+RR_301000783,OR_31005556,"Wrong Item Shipped",Approved,2023-11-18
+RR_301000784,OR_31009727,"Wrong Item Shipped",Rejected,2023-01-01
+RR_301000785,OR_31001720,"Late Delivery",Approved,2023-07-03
+RR_301000786,OR_31008236,"Defective Product",Approved,2024-10-08
+RR_301000787,OR_31003082,"Defective Product",Rejected,2023-01-08
+RR_301000788,OR_31001354,"Late Delivery",Approved,2024-06-10
+RR_301000789,OR_31009821,"Defective Product",Approved,2024-04-29
+RR_301000790,OR_31006284,"Late Delivery",Approved,2023-04-17
+RR_301000791,OR_31000422,"Late Delivery",Approved,2024-02-23
+RR_301000792,OR_31000809,"Defective Product",Rejected,2023-11-26
+RR_301000793,OR_31003692,"Defective Product",Rejected,2024-07-16
+RR_301000794,OR_31009877,"Defective Product",Approved,2024-03-19
+RR_301000795,OR_31009851,"Late Delivery",Rejected,2023-01-21
+RR_301000796,OR_31009832,"Defective Product",Approved,2023-09-22
+RR_301000797,OR_31008728,"Defective Product",Approved,2023-05-25
+RR_301000798,OR_31003540,"Defective Product",Approved,2024-01-08
+RR_301000799,OR_31001797,"Wrong Item Shipped",Approved,2024-12-21
+RR_301000800,OR_31005438,"Defective Product",Rejected,2023-05-09
+RR_301000801,OR_31008001,"Late Delivery",Rejected,2023-06-05
+RR_301000802,OR_31000699,"Late Delivery",Approved,2024-09-26
+RR_301000803,OR_31009256,"Late Delivery",Approved,2023-09-21
+RR_301000804,OR_31002740,"Late Delivery",Approved,2024-05-06
+RR_301000805,OR_31009979,"Wrong Item Shipped",Rejected,2023-12-23
+RR_301000806,OR_31001961,"Late Delivery",Approved,2023-03-22
+RR_301000807,OR_31006280,"Late Delivery",Rejected,2024-06-29
+RR_301000808,OR_31007025,"Wrong Item Shipped",Rejected,2023-05-19
+RR_301000809,OR_31009625,"Defective Product",Approved,2024-05-26
+RR_301000810,OR_31009642,"Defective Product",Approved,2024-11-14
+RR_301000811,OR_31005619,"Wrong Item Shipped",Rejected,2023-02-12
+RR_301000812,OR_31003098,"Late Delivery",Rejected,2024-06-22
+RR_301000813,OR_31002572,"Late Delivery",Rejected,2024-02-06
+RR_301000814,OR_31008833,"Defective Product",Approved,2024-02-25
+RR_301000815,OR_31000349,"Wrong Item Shipped",Rejected,2023-02-09
+RR_301000816,OR_31004993,"Late Delivery",Rejected,2023-12-12
+RR_301000817,OR_31000978,"Wrong Item Shipped",Rejected,2023-11-30
+RR_301000818,OR_31001101,"Late Delivery",Rejected,2024-03-17
+RR_301000819,OR_31001918,"Wrong Item Shipped",Rejected,2023-08-22
+RR_301000820,OR_31003192,"Wrong Item Shipped",Approved,2024-07-03
+RR_301000821,OR_31005202,"Wrong Item Shipped",Approved,2024-05-07
+RR_301000822,OR_31002622,"Defective Product",Rejected,2023-12-01
+RR_301000823,OR_31002803,"Defective Product",Approved,2024-09-14
+RR_301000824,OR_31007169,"Late Delivery",Rejected,2024-12-27
+RR_301000825,OR_31009312,"Wrong Item Shipped",Rejected,2023-03-18
+RR_301000826,OR_31007278,"Wrong Item Shipped",Rejected,2023-05-04
+RR_301000827,OR_31000316,"Defective Product",Rejected,2024-10-27
+RR_301000828,OR_31004496,"Late Delivery",Approved,2023-10-20
+RR_301000829,OR_31005153,"Defective Product",Rejected,2024-08-30
+RR_301000830,OR_31006237,"Defective Product",Rejected,2023-05-25
+RR_301000831,OR_31003534,"Defective Product",Approved,2024-12-04
+RR_301000832,OR_31009932,"Wrong Item Shipped",Rejected,2024-07-19
+RR_301000833,OR_31002067,"Defective Product",Rejected,2024-01-14
+RR_301000834,OR_31002243,"Defective Product",Rejected,2024-05-05
+RR_301000835,OR_31008224,"Late Delivery",Approved,2023-01-29
+RR_301000836,OR_31001347,"Late Delivery",Approved,2024-02-12
+RR_301000837,OR_31007980,"Defective Product",Approved,2023-12-31
+RR_301000838,OR_31008415,"Wrong Item Shipped",Rejected,2024-03-16
+RR_301000839,OR_31005458,"Defective Product",Rejected,2024-02-14
+RR_301000840,OR_31004726,"Defective Product",Rejected,2023-01-24
+RR_301000841,OR_31002354,"Late Delivery",Rejected,2023-06-23
+RR_301000842,OR_31004744,"Defective Product",Rejected,2024-07-04
+RR_301000843,OR_31001415,"Late Delivery",Approved,2024-12-12
+RR_301000844,OR_31005852,"Late Delivery",Approved,2024-11-18
+RR_301000845,OR_31009892,"Wrong Item Shipped",Approved,2023-09-12
+RR_301000846,OR_31008307,"Defective Product",Rejected,2024-08-13
+RR_301000847,OR_31000054,"Wrong Item Shipped",Rejected,2023-09-04
+RR_301000848,OR_31008956,"Late Delivery",Rejected,2023-12-08
+RR_301000849,OR_31005078,"Wrong Item Shipped",Rejected,2024-03-16
+RR_301000850,OR_31001057,"Defective Product",Rejected,2023-06-13
+RR_301000851,OR_31000284,"Defective Product",Approved,2024-05-01
+RR_301000852,OR_31005172,"Late Delivery",Approved,2024-08-04
+RR_301000853,OR_31001436,"Defective Product",Approved,2024-07-22
+RR_301000854,OR_31003997,"Defective Product",Approved,2023-11-14
+RR_301000855,OR_31008481,"Defective Product",Rejected,2023-06-01
+RR_301000856,OR_31009699,"Late Delivery",Approved,2023-01-15
+RR_301000857,OR_31004802,"Wrong Item Shipped",Approved,2024-10-12
+RR_301000858,OR_31004645,"Wrong Item Shipped",Approved,2024-06-26
+RR_301000859,OR_31007645,"Wrong Item Shipped",Rejected,2024-08-27
+RR_301000860,OR_31002120,"Late Delivery",Rejected,2023-02-16
+RR_301000861,OR_31002930,"Defective Product",Rejected,2024-01-17
+RR_301000862,OR_31007148,"Defective Product",Rejected,2024-12-04
+RR_301000863,OR_31004886,"Late Delivery",Rejected,2024-12-28
+RR_301000864,OR_31001635,"Wrong Item Shipped",Approved,2023-06-18
+RR_301000865,OR_31006707,"Late Delivery",Approved,2023-03-22
+RR_301000866,OR_31007125,"Wrong Item Shipped",Approved,2024-11-16
+RR_301000867,OR_31004329,"Wrong Item Shipped",Approved,2024-09-14
+RR_301000868,OR_31009462,"Defective Product",Approved,2023-11-30
+RR_301000869,OR_31001154,"Defective Product",Rejected,2023-01-13
+RR_301000870,OR_31008229,"Late Delivery",Approved,2024-12-25
+RR_301000871,OR_31007445,"Late Delivery",Approved,2024-11-13
+RR_301000872,OR_31000484,"Wrong Item Shipped",Rejected,2024-06-21
+RR_301000873,OR_31000963,"Late Delivery",Approved,2023-02-23
+RR_301000874,OR_31005862,"Late Delivery",Approved,2024-01-27
+RR_301000875,OR_31006078,"Late Delivery",Approved,2024-01-21
+RR_301000876,OR_31001050,"Late Delivery",Rejected,2023-12-18
+RR_301000877,OR_31005466,"Wrong Item Shipped",Rejected,2024-09-15
+RR_301000878,OR_31008482,"Late Delivery",Rejected,2024-12-01
+RR_301000879,OR_31001992,"Late Delivery",Approved,2024-08-05
+RR_301000880,OR_31001154,"Late Delivery",Approved,2024-12-26
+RR_301000881,OR_31007197,"Defective Product",Rejected,2024-07-17
+RR_301000882,OR_31009012,"Wrong Item Shipped",Rejected,2024-02-03
+RR_301000883,OR_31000051,"Late Delivery",Approved,2024-12-14
+RR_301000884,OR_31004340,"Late Delivery",Rejected,2023-04-12
+RR_301000885,OR_31004380,"Wrong Item Shipped",Rejected,2023-03-01
+RR_301000886,OR_31004329,"Wrong Item Shipped",Rejected,2023-06-30
+RR_301000887,OR_31004373,"Defective Product",Approved,2024-03-13
+RR_301000888,OR_31001309,"Late Delivery",Rejected,2024-01-23
+RR_301000889,OR_31001367,"Late Delivery",Rejected,2023-03-15
+RR_301000890,OR_31001794,"Defective Product",Approved,2024-12-25
+RR_301000891,OR_31000673,"Late Delivery",Approved,2024-02-25
+RR_301000892,OR_31004645,"Defective Product",Approved,2024-11-09
+RR_301000893,OR_31005305,"Defective Product",Approved,2023-02-26
+RR_301000894,OR_31008094,"Defective Product",Approved,2023-09-11
+RR_301000895,OR_31007039,"Wrong Item Shipped",Rejected,2023-04-03
+RR_301000896,OR_31007850,"Late Delivery",Approved,2023-03-20
+RR_301000897,OR_31000782,"Late Delivery",Rejected,2024-06-01
+RR_301000898,OR_31006485,"Wrong Item Shipped",Rejected,2023-07-26
+RR_301000899,OR_31005827,"Wrong Item Shipped",Rejected,2023-07-04
+RR_301000900,OR_31006108,"Defective Product",Approved,2024-05-11
+RR_301000901,OR_31007920,"Defective Product",Approved,2024-04-11
+RR_301000902,OR_31000439,"Wrong Item Shipped",Rejected,2023-03-20
+RR_301000903,OR_31009323,"Late Delivery",Approved,2024-03-22
+RR_301000904,OR_31008254,"Late Delivery",Approved,2024-12-01
+RR_301000905,OR_31005256,"Late Delivery",Approved,2024-07-21
+RR_301000906,OR_31001780,"Defective Product",Rejected,2024-01-29
+RR_301000907,OR_31002419,"Defective Product",Rejected,2024-06-02
+RR_301000908,OR_31003610,"Defective Product",Approved,2024-09-01
+RR_301000909,OR_31009194,"Defective Product",Approved,2023-06-13
+RR_301000910,OR_31004359,"Wrong Item Shipped",Approved,2024-01-26
+RR_301000911,OR_31001004,"Defective Product",Rejected,2024-10-27
+RR_301000912,OR_31003494,"Defective Product",Rejected,2023-03-12
+RR_301000913,OR_31008728,"Late Delivery",Approved,2023-06-29
+RR_301000914,OR_31002750,"Late Delivery",Rejected,2024-01-30
+RR_301000915,OR_31009347,"Late Delivery",Approved,2023-08-22
+RR_301000916,OR_31009459,"Late Delivery",Approved,2024-04-01
+RR_301000917,OR_31008096,"Wrong Item Shipped",Approved,2024-03-14
+RR_301000918,OR_31001875,"Defective Product",Rejected,2024-01-31
+RR_301000919,OR_31006337,"Defective Product",Rejected,2024-01-03
+RR_301000920,OR_31005092,"Wrong Item Shipped",Approved,2023-03-05
+RR_301000921,OR_31006133,"Wrong Item Shipped",Approved,2023-07-15
+RR_301000922,OR_31000491,"Wrong Item Shipped",Rejected,2024-10-01
+RR_301000923,OR_31000530,"Wrong Item Shipped",Rejected,2024-10-22
+RR_301000924,OR_31009848,"Defective Product",Rejected,2024-03-10
+RR_301000925,OR_31002942,"Late Delivery",Approved,2024-03-21
+RR_301000926,OR_31008435,"Late Delivery",Approved,2024-03-12
+RR_301000927,OR_31002357,"Late Delivery",Approved,2024-12-14
+RR_301000928,OR_31008925,"Late Delivery",Rejected,2024-11-08
+RR_301000929,OR_31006456,"Defective Product",Approved,2024-12-22
+RR_301000930,OR_31005044,"Defective Product",Approved,2024-01-11
+RR_301000931,OR_31005325,"Late Delivery",Rejected,2023-03-28
+RR_301000932,OR_31003494,"Late Delivery",Approved,2023-04-16
+RR_301000933,OR_31003526,"Defective Product",Rejected,2024-07-15
+RR_301000934,OR_31007019,"Wrong Item Shipped",Rejected,2023-02-17
+RR_301000935,OR_31009887,"Late Delivery",Rejected,2024-07-03
+RR_301000936,OR_31005472,"Late Delivery",Rejected,2024-08-07
+RR_301000937,OR_31004962,"Wrong Item Shipped",Approved,2024-05-20
+RR_301000938,OR_31000282,"Late Delivery",Rejected,2024-08-24
+RR_301000939,OR_31005996,"Late Delivery",Approved,2023-11-14
+RR_301000940,OR_31004394,"Defective Product",Rejected,2023-01-27
+RR_301000941,OR_31009601,"Wrong Item Shipped",Rejected,2023-04-20
+RR_301000942,OR_31006232,"Late Delivery",Approved,2024-09-30
+RR_301000943,OR_31007959,"Wrong Item Shipped",Rejected,2023-07-02
+RR_301000944,OR_31005288,"Late Delivery",Approved,2023-02-27
+RR_301000945,OR_31003427,"Late Delivery",Rejected,2023-12-12
+RR_301000946,OR_31001974,"Late Delivery",Approved,2024-04-06
+RR_301000947,OR_31007700,"Late Delivery",Rejected,2023-04-12
+RR_301000948,OR_31005531,"Late Delivery",Rejected,2024-12-02
+RR_301000949,OR_31008288,"Wrong Item Shipped",Rejected,2024-08-09
+RR_301000950,OR_31005851,"Defective Product",Approved,2024-02-20
+RR_301000951,OR_31004770,"Late Delivery",Rejected,2024-02-16
+RR_301000952,OR_31008550,"Defective Product",Rejected,2024-04-10
+RR_301000953,OR_31009864,"Late Delivery",Rejected,2023-02-03
+RR_301000954,OR_31008425,"Defective Product",Approved,2024-01-29
+RR_301000955,OR_31006090,"Late Delivery",Approved,2024-03-07
+RR_301000956,OR_31000386,"Wrong Item Shipped",Approved,2024-04-21
+RR_301000957,OR_31001766,"Late Delivery",Rejected,2024-09-16
+RR_301000958,OR_31009364,"Wrong Item Shipped",Approved,2024-12-02
+RR_301000959,OR_31007891,"Defective Product",Approved,2024-06-12
+RR_301000960,OR_31003001,"Late Delivery",Rejected,2023-06-16
+RR_301000961,OR_31001785,"Defective Product",Approved,2024-08-07
+RR_301000962,OR_31007490,"Late Delivery",Approved,2024-01-18
+RR_301000963,OR_31003216,"Wrong Item Shipped",Rejected,2023-07-05
+RR_301000964,OR_31006156,"Late Delivery",Approved,2024-05-26
+RR_301000965,OR_31002646,"Wrong Item Shipped",Approved,2024-03-21
+RR_301000966,OR_31005672,"Wrong Item Shipped",Rejected,2024-07-11
+RR_301000967,OR_31006025,"Late Delivery",Rejected,2023-06-05
+RR_301000968,OR_31005390,"Defective Product",Approved,2023-04-30
+RR_301000969,OR_31008101,"Wrong Item Shipped",Approved,2023-06-16
+RR_301000970,OR_31004121,"Wrong Item Shipped",Approved,2024-11-26
+RR_301000971,OR_31004648,"Wrong Item Shipped",Rejected,2023-07-18
+RR_301000972,OR_31005665,"Late Delivery",Rejected,2024-01-20
+RR_301000973,OR_31001377,"Late Delivery",Approved,2024-05-02
+RR_301000974,OR_31004917,"Late Delivery",Approved,2023-04-05
+RR_301000975,OR_31003279,"Defective Product",Approved,2024-06-27
+RR_301000976,OR_31008514,"Wrong Item Shipped",Approved,2023-09-23
+RR_301000977,OR_31003259,"Wrong Item Shipped",Approved,2024-03-26
+RR_301000978,OR_31002423,"Defective Product",Rejected,2023-08-06
+RR_301000979,OR_31003671,"Wrong Item Shipped",Rejected,2023-12-10
+RR_301000980,OR_31005518,"Wrong Item Shipped",Approved,2024-06-07
+RR_301000981,OR_31001690,"Wrong Item Shipped",Rejected,2024-06-17
+RR_301000982,OR_31004366,"Wrong Item Shipped",Rejected,2024-08-14
+RR_301000983,OR_31008561,"Wrong Item Shipped",Approved,2024-02-09
+RR_301000984,OR_31008064,"Defective Product",Approved,2024-09-14
+RR_301000985,OR_31006483,"Wrong Item Shipped",Approved,2024-12-29
+RR_301000986,OR_31000132,"Late Delivery",Approved,2024-03-26
+RR_301000987,OR_31007818,"Wrong Item Shipped",Rejected,2023-06-06
+RR_301000988,OR_31004028,"Late Delivery",Rejected,2024-10-19
+RR_301000989,OR_31001489,"Defective Product",Rejected,2024-11-23
+RR_301000990,OR_31006898,"Defective Product",Rejected,2024-05-31
+RR_301000991,OR_31009954,"Wrong Item Shipped",Approved,2024-01-27
+RR_301000992,OR_31006656,"Late Delivery",Approved,2024-10-03
+RR_301000993,OR_31001117,"Defective Product",Approved,2023-09-09
+RR_301000994,OR_31005279,"Wrong Item Shipped",Rejected,2023-05-17
+RR_301000995,OR_31002670,"Wrong Item Shipped",Rejected,2023-07-10
+RR_301000996,OR_31007345,"Wrong Item Shipped",Rejected,2024-04-07
+RR_301000997,OR_31009078,"Late Delivery",Rejected,2023-01-20
+RR_301000998,OR_31007410,"Defective Product",Approved,2024-12-18
+RR_301000999,OR_31000093,"Late Delivery",Approved,2024-08-21
+RR_301001000,OR_31004800,"Defective Product",Rejected,2024-11-10
+RR_301001001,OR_31006057,"Late Delivery",Rejected,2024-11-23
+RR_301001002,OR_31009708,"Defective Product",Approved,2023-09-16
+RR_301001003,OR_31004584,"Defective Product",Rejected,2024-10-19
+RR_301001004,OR_31003286,"Wrong Item Shipped",Approved,2023-03-25
+RR_301001005,OR_31009617,"Defective Product",Approved,2024-11-29
+RR_301001006,OR_31001597,"Late Delivery",Rejected,2023-11-10
+RR_301001007,OR_31002178,"Late Delivery",Rejected,2023-04-17
+RR_301001008,OR_31001237,"Defective Product",Approved,2023-04-05
+RR_301001009,OR_31001825,"Late Delivery",Rejected,2024-04-17
+RR_301001010,OR_31004401,"Defective Product",Approved,2024-08-18
+RR_301001011,OR_31003303,"Defective Product",Rejected,2024-04-20
+RR_301001012,OR_31000668,"Late Delivery",Rejected,2023-07-09
+RR_301001013,OR_31008992,"Wrong Item Shipped",Approved,2024-12-02
+RR_301001014,OR_31006550,"Late Delivery",Rejected,2024-03-02
+RR_301001015,OR_31008256,"Wrong Item Shipped",Rejected,2023-11-21
+RR_301001016,OR_31006580,"Wrong Item Shipped",Rejected,2024-12-10
+RR_301001017,OR_31005559,"Late Delivery",Approved,2023-07-19
+RR_301001018,OR_31003636,"Wrong Item Shipped",Rejected,2023-10-16
+RR_301001019,OR_31004674,"Wrong Item Shipped",Rejected,2024-10-26
+RR_301001020,OR_31008931,"Late Delivery",Rejected,2024-10-07
+RR_301001021,OR_31000672,"Wrong Item Shipped",Approved,2024-01-22
+RR_301001022,OR_31009608,"Wrong Item Shipped",Approved,2024-09-20
+RR_301001023,OR_31002067,"Wrong Item Shipped",Rejected,2023-04-27
+RR_301001024,OR_31003087,"Defective Product",Approved,2024-03-13
+RR_301001025,OR_31003045,"Defective Product",Rejected,2024-11-07
+RR_301001026,OR_31000061,"Defective Product",Rejected,2024-08-26
+RR_301001027,OR_31001508,"Late Delivery",Rejected,2023-11-06
+RR_301001028,OR_31001312,"Wrong Item Shipped",Rejected,2023-06-13
+RR_301001029,OR_31008932,"Late Delivery",Approved,2024-01-25
+RR_301001030,OR_31004614,"Defective Product",Rejected,2024-11-27
+RR_301001031,OR_31005088,"Late Delivery",Rejected,2023-07-03
+RR_301001032,OR_31008139,"Wrong Item Shipped",Rejected,2024-03-23
+RR_301001033,OR_31003488,"Defective Product",Rejected,2024-08-16
+RR_301001034,OR_31007261,"Wrong Item Shipped",Rejected,2024-07-11
+RR_301001035,OR_31000433,"Wrong Item Shipped",Rejected,2023-04-19
+RR_301001036,OR_31005894,"Late Delivery",Approved,2024-01-07
+RR_301001037,OR_31004845,"Defective Product",Approved,2023-08-28
+RR_301001038,OR_31003915,"Defective Product",Rejected,2023-02-18
+RR_301001039,OR_31002691,"Defective Product",Approved,2024-09-23
+RR_301001040,OR_31003685,"Late Delivery",Rejected,2024-08-21
+RR_301001041,OR_31006760,"Defective Product",Rejected,2024-02-05
+RR_301001042,OR_31009865,"Wrong Item Shipped",Rejected,2024-03-27
+RR_301001043,OR_31009527,"Defective Product",Approved,2024-08-07
+RR_301001044,OR_31006653,"Wrong Item Shipped",Rejected,2024-03-13
+RR_301001045,OR_31002413,"Wrong Item Shipped",Approved,2023-03-13
+RR_301001046,OR_31000731,"Wrong Item Shipped",Approved,2023-11-02
+RR_301001047,OR_31002915,"Defective Product",Rejected,2023-12-09
+RR_301001048,OR_31003476,"Wrong Item Shipped",Rejected,2023-11-06
+RR_301001049,OR_31004044,"Late Delivery",Approved,2024-08-29
+RR_301001050,OR_31002190,"Late Delivery",Rejected,2023-12-31
+RR_301001051,OR_31003219,"Wrong Item Shipped",Rejected,2023-01-15
+RR_301001052,OR_31009225,"Late Delivery",Rejected,2023-11-03
+RR_301001053,OR_31000012,"Late Delivery",Approved,2024-04-12
+RR_301001054,OR_31002577,"Defective Product",Rejected,2023-09-22
+RR_301001055,OR_31007479,"Defective Product",Rejected,2024-07-23
+RR_301001056,OR_31003844,"Late Delivery",Rejected,2024-03-16
+RR_301001057,OR_31000194,"Wrong Item Shipped",Rejected,2024-01-24
+RR_301001058,OR_31008829,"Wrong Item Shipped",Rejected,2024-02-17
+RR_301001059,OR_31006069,"Late Delivery",Approved,2024-09-03
+RR_301001060,OR_31003199,"Wrong Item Shipped",Approved,2024-05-07
+RR_301001061,OR_31002516,"Late Delivery",Approved,2023-01-10
+RR_301001062,OR_31003070,"Wrong Item Shipped",Rejected,2023-11-06
+RR_301001063,OR_31001665,"Late Delivery",Approved,2024-02-09
+RR_301001064,OR_31008998,"Wrong Item Shipped",Approved,2023-09-12
+RR_301001065,OR_31008514,"Wrong Item Shipped",Rejected,2023-08-19
+RR_301001066,OR_31001914,"Wrong Item Shipped",Approved,2024-10-14
+RR_301001067,OR_31003980,"Defective Product",Approved,2023-01-02
+RR_301001068,OR_31004554,"Wrong Item Shipped",Rejected,2023-09-25
+RR_301001069,OR_31009384,"Late Delivery",Rejected,2023-04-20
+RR_301001070,OR_31003421,"Defective Product",Approved,2024-03-25
+RR_301001071,OR_31000206,"Wrong Item Shipped",Rejected,2024-02-17
+RR_301001072,OR_31001233,"Late Delivery",Approved,2023-03-15
+RR_301001073,OR_31007099,"Wrong Item Shipped",Approved,2024-05-10
+RR_301001074,OR_31000199,"Wrong Item Shipped",Approved,2023-07-28
+RR_301001075,OR_31002316,"Defective Product",Rejected,2024-03-15
+RR_301001076,OR_31007982,"Defective Product",Rejected,2023-11-22
+RR_301001077,OR_31003277,"Wrong Item Shipped",Rejected,2024-05-13
+RR_301001078,OR_31000840,"Late Delivery",Rejected,2024-08-01
+RR_301001079,OR_31006928,"Defective Product",Approved,2024-12-23
+RR_301001080,OR_31000001,"Late Delivery",Rejected,2023-01-16
+RR_301001081,OR_31002375,"Defective Product",Approved,2023-03-10
+RR_301001082,OR_31001129,"Wrong Item Shipped",Rejected,2024-01-23
+RR_301001083,OR_31003134,"Defective Product",Approved,2024-08-20
+RR_301001084,OR_31004293,"Late Delivery",Approved,2024-07-14
+RR_301001085,OR_31009325,"Defective Product",Rejected,2023-06-05
+RR_301001086,OR_31005163,"Late Delivery",Rejected,2023-06-23
+RR_301001087,OR_31000954,"Late Delivery",Approved,2024-11-06
+RR_301001088,OR_31004994,"Defective Product",Approved,2024-10-20
+RR_301001089,OR_31003737,"Defective Product",Approved,2023-03-12
+RR_301001090,OR_31004005,"Defective Product",Rejected,2024-07-01
+RR_301001091,OR_31006726,"Late Delivery",Approved,2024-02-03
+RR_301001092,OR_31005041,"Wrong Item Shipped",Approved,2023-04-01
+RR_301001093,OR_31004695,"Defective Product",Rejected,2023-06-09
+RR_301001094,OR_31008418,"Late Delivery",Approved,2024-05-25
+RR_301001095,OR_31008971,"Wrong Item Shipped",Approved,2023-03-09
+RR_301001096,OR_31003354,"Defective Product",Rejected,2024-05-26
+RR_301001097,OR_31006667,"Defective Product",Rejected,2024-04-02
+RR_301001098,OR_31005724,"Defective Product",Approved,2024-07-24
+RR_301001099,OR_31009108,"Defective Product",Rejected,2024-01-24
+RR_301001100,OR_31007802,"Wrong Item Shipped",Approved,2023-07-07
+RR_301001101,OR_31001877,"Late Delivery",Rejected,2023-08-15
+RR_301001102,OR_31003502,"Late Delivery",Rejected,2024-01-10
+RR_301001103,OR_31005457,"Defective Product",Approved,2024-12-22
+RR_301001104,OR_31001579,"Late Delivery",Approved,2023-03-29
+RR_301001105,OR_31009626,"Wrong Item Shipped",Rejected,2024-03-28
+RR_301001106,OR_31005379,"Defective Product",Rejected,2024-03-30
+RR_301001107,OR_31005576,"Wrong Item Shipped",Rejected,2024-09-08
+RR_301001108,OR_31003941,"Late Delivery",Approved,2024-05-09
+RR_301001109,OR_31002784,"Defective Product",Rejected,2024-04-14
+RR_301001110,OR_31007655,"Defective Product",Rejected,2023-02-24
+RR_301001111,OR_31006580,"Wrong Item Shipped",Rejected,2024-04-26
+RR_301001112,OR_31000398,"Wrong Item Shipped",Approved,2023-08-02
+RR_301001113,OR_31009101,"Wrong Item Shipped",Approved,2023-06-10
+RR_301001114,OR_31005694,"Wrong Item Shipped",Rejected,2024-01-23
+RR_301001115,OR_31003496,"Late Delivery",Rejected,2024-02-08
+RR_301001116,OR_31007279,"Defective Product",Approved,2024-01-16
+RR_301001117,OR_31004007,"Wrong Item Shipped",Rejected,2024-04-04
+RR_301001118,OR_31007047,"Wrong Item Shipped",Rejected,2023-12-14
+RR_301001119,OR_31008513,"Defective Product",Rejected,2023-09-25
+RR_301001120,OR_31003811,"Defective Product",Approved,2024-01-25
+RR_301001121,OR_31000358,"Late Delivery",Approved,2023-10-06
+RR_301001122,OR_31004758,"Late Delivery",Rejected,2023-01-06
+RR_301001123,OR_31006009,"Late Delivery",Rejected,2023-11-12
+RR_301001124,OR_31005079,"Late Delivery",Rejected,2024-05-07
+RR_301001125,OR_31007385,"Wrong Item Shipped",Approved,2023-01-14
+RR_301001126,OR_31006429,"Defective Product",Rejected,2024-02-15
+RR_301001127,OR_31005082,"Wrong Item Shipped",Rejected,2024-08-09
+RR_301001128,OR_31001423,"Defective Product",Rejected,2024-12-19
+RR_301001129,OR_31006922,"Late Delivery",Rejected,2023-07-21
+RR_301001130,OR_31009642,"Wrong Item Shipped",Rejected,2023-02-06
+RR_301001131,OR_31004426,"Defective Product",Approved,2024-12-07
+RR_301001132,OR_31003643,"Late Delivery",Rejected,2023-12-18
+RR_301001133,OR_31001311,"Defective Product",Approved,2024-08-16
+RR_301001134,OR_31002050,"Late Delivery",Rejected,2023-07-03
+RR_301001135,OR_31005982,"Defective Product",Rejected,2024-02-10
+RR_301001136,OR_31008279,"Defective Product",Approved,2024-06-16
+RR_301001137,OR_31002320,"Late Delivery",Rejected,2023-10-13
+RR_301001138,OR_31004129,"Wrong Item Shipped",Rejected,2023-09-13
+RR_301001139,OR_31001623,"Wrong Item Shipped",Rejected,2023-08-30
+RR_301001140,OR_31001619,"Wrong Item Shipped",Approved,2024-01-24
+RR_301001141,OR_31004205,"Late Delivery",Rejected,2024-07-13
+RR_301001142,OR_31004968,"Late Delivery",Rejected,2024-06-08
+RR_301001143,OR_31000894,"Defective Product",Rejected,2024-04-23
+RR_301001144,OR_31007544,"Wrong Item Shipped",Approved,2023-09-07
+RR_301001145,OR_31006528,"Wrong Item Shipped",Rejected,2023-12-06
+RR_301001146,OR_31005031,"Defective Product",Approved,2024-10-21
+RR_301001147,OR_31000805,"Defective Product",Rejected,2023-04-15
+RR_301001148,OR_31001856,"Defective Product",Approved,2023-06-21
+RR_301001149,OR_31004871,"Defective Product",Approved,2023-03-03
+RR_301001150,OR_31007466,"Wrong Item Shipped",Approved,2024-01-26
+RR_301001151,OR_31000862,"Wrong Item Shipped",Rejected,2024-04-02
+RR_301001152,OR_31000740,"Defective Product",Rejected,2024-08-12
+RR_301001153,OR_31003991,"Late Delivery",Rejected,2024-10-02
+RR_301001154,OR_31003298,"Defective Product",Approved,2023-10-11
+RR_301001155,OR_31008206,"Late Delivery",Approved,2024-03-11
+RR_301001156,OR_31008312,"Defective Product",Approved,2024-02-22
+RR_301001157,OR_31003898,"Defective Product",Rejected,2023-09-01
+RR_301001158,OR_31001081,"Late Delivery",Approved,2023-08-28
+RR_301001159,OR_31008618,"Defective Product",Approved,2023-05-09
+RR_301001160,OR_31000303,"Defective Product",Approved,2023-10-12
+RR_301001161,OR_31001750,"Late Delivery",Rejected,2024-03-20
+RR_301001162,OR_31005905,"Late Delivery",Approved,2024-03-09
+RR_301001163,OR_31001262,"Defective Product",Approved,2023-03-05
+RR_301001164,OR_31004441,"Wrong Item Shipped",Approved,2024-10-08
+RR_301001165,OR_31001855,"Late Delivery",Approved,2024-09-03
+RR_301001166,OR_31007731,"Defective Product",Rejected,2023-11-01
+RR_301001167,OR_31008103,"Defective Product",Rejected,2024-01-04
+RR_301001168,OR_31003728,"Wrong Item Shipped",Approved,2023-06-14
+RR_301001169,OR_31006596,"Defective Product",Approved,2023-08-14
+RR_301001170,OR_31004010,"Defective Product",Approved,2024-05-08
+RR_301001171,OR_31000028,"Wrong Item Shipped",Approved,2024-04-21
+RR_301001172,OR_31002998,"Defective Product",Approved,2024-03-03
+RR_301001173,OR_31003068,"Wrong Item Shipped",Approved,2024-10-10
+RR_301001174,OR_31001397,"Wrong Item Shipped",Approved,2024-12-10
+RR_301001175,OR_31008766,"Defective Product",Rejected,2023-05-31
+RR_301001176,OR_31005568,"Defective Product",Approved,2024-12-24
+RR_301001177,OR_31008508,"Late Delivery",Rejected,2023-12-13
+RR_301001178,OR_31003709,"Defective Product",Rejected,2023-03-17
+RR_301001179,OR_31003746,"Late Delivery",Rejected,2024-05-14
+RR_301001180,OR_31007360,"Wrong Item Shipped",Rejected,2024-08-21
+RR_301001181,OR_31003923,"Late Delivery",Approved,2024-06-12
+RR_301001182,OR_31007248,"Wrong Item Shipped",Rejected,2024-08-24
+RR_301001183,OR_31001891,"Defective Product",Approved,2024-06-19
+RR_301001184,OR_31001106,"Wrong Item Shipped",Approved,2023-08-21
+RR_301001185,OR_31005916,"Wrong Item Shipped",Rejected,2023-11-20
+RR_301001186,OR_31009397,"Late Delivery",Approved,2024-10-27
+RR_301001187,OR_31009935,"Wrong Item Shipped",Rejected,2024-02-23
+RR_301001188,OR_31009018,"Wrong Item Shipped",Approved,2024-03-21
+RR_301001189,OR_31004238,"Late Delivery",Rejected,2023-06-30
+RR_301001190,OR_31008910,"Defective Product",Rejected,2023-05-08
+RR_301001191,OR_31006932,"Wrong Item Shipped",Approved,2023-06-22
+RR_301001192,OR_31004583,"Wrong Item Shipped",Rejected,2024-07-27
+RR_301001193,OR_31002471,"Wrong Item Shipped",Approved,2024-11-26
+RR_301001194,OR_31008599,"Defective Product",Rejected,2023-06-17
+RR_301001195,OR_31004461,"Defective Product",Rejected,2024-11-27
+RR_301001196,OR_31005841,"Late Delivery",Approved,2023-07-02
+RR_301001197,OR_31000630,"Wrong Item Shipped",Approved,2023-09-30
+RR_301001198,OR_31005006,"Defective Product",Approved,2024-05-02
+RR_301001199,OR_31008571,"Defective Product",Rejected,2024-11-16
+RR_301001200,OR_31001284,"Defective Product",Approved,2024-03-07
+RR_301001201,OR_31008028,"Late Delivery",Approved,2024-08-21
+RR_301001202,OR_31002049,"Late Delivery",Rejected,2023-05-17
+RR_301001203,OR_31009872,"Late Delivery",Approved,2024-05-17
+RR_301001204,OR_31005803,"Defective Product",Rejected,2024-10-11
+RR_301001205,OR_31005790,"Late Delivery",Approved,2023-02-15
+RR_301001206,OR_31008220,"Defective Product",Approved,2024-06-19
+RR_301001207,OR_31006087,"Late Delivery",Rejected,2023-09-19
+RR_301001208,OR_31008590,"Late Delivery",Rejected,2024-07-19
+RR_301001209,OR_31007532,"Late Delivery",Rejected,2023-09-26
+RR_301001210,OR_31005344,"Late Delivery",Rejected,2023-01-15
+RR_301001211,OR_31000079,"Late Delivery",Approved,2024-01-02
+RR_301001212,OR_31007435,"Late Delivery",Approved,2024-11-30
+RR_301001213,OR_31004019,"Defective Product",Rejected,2024-07-28
+RR_301001214,OR_31002123,"Late Delivery",Rejected,2023-10-14
+RR_301001215,OR_31003028,"Wrong Item Shipped",Approved,2023-03-01
+RR_301001216,OR_31009534,"Wrong Item Shipped",Approved,2024-08-07
+RR_301001217,OR_31009267,"Defective Product",Rejected,2023-06-09
+RR_301001218,OR_31002927,"Defective Product",Rejected,2023-12-05
+RR_301001219,OR_31001164,"Late Delivery",Approved,2024-01-01
+RR_301001220,OR_31006374,"Defective Product",Rejected,2023-03-09
+RR_301001221,OR_31006774,"Late Delivery",Approved,2023-08-18
+RR_301001222,OR_31004245,"Late Delivery",Approved,2024-10-05
+RR_301001223,OR_31001099,"Defective Product",Rejected,2023-09-14
+RR_301001224,OR_31003028,"Defective Product",Approved,2024-10-01
+RR_301001225,OR_31009458,"Defective Product",Rejected,2023-10-15
+RR_301001226,OR_31009080,"Defective Product",Rejected,2023-10-12
+RR_301001227,OR_31002008,"Late Delivery",Rejected,2023-12-18
+RR_301001228,OR_31005436,"Late Delivery",Approved,2023-03-04
+RR_301001229,OR_31000071,"Defective Product",Approved,2024-04-28
+RR_301001230,OR_31000296,"Late Delivery",Rejected,2024-11-07
+RR_301001231,OR_31009100,"Late Delivery",Rejected,2024-02-12
+RR_301001232,OR_31002959,"Late Delivery",Rejected,2024-06-23
+RR_301001233,OR_31009505,"Wrong Item Shipped",Rejected,2024-10-09
+RR_301001234,OR_31007172,"Defective Product",Rejected,2024-03-21
+RR_301001235,OR_31007881,"Defective Product",Approved,2023-03-07
+RR_301001236,OR_31007110,"Defective Product",Approved,2024-09-04
+RR_301001237,OR_31004538,"Defective Product",Approved,2024-12-13
+RR_301001238,OR_31002303,"Late Delivery",Rejected,2024-11-18
+RR_301001239,OR_31008101,"Late Delivery",Approved,2023-07-04
+RR_301001240,OR_31006019,"Wrong Item Shipped",Rejected,2023-11-18
+RR_301001241,OR_31005274,"Defective Product",Approved,2024-03-31
+RR_301001242,OR_31008250,"Wrong Item Shipped",Approved,2024-04-02
+RR_301001243,OR_31005583,"Late Delivery",Approved,2024-07-26
+RR_301001244,OR_31005073,"Defective Product",Approved,2023-02-10
+RR_301001245,OR_31007102,"Wrong Item Shipped",Rejected,2023-05-07
+RR_301001246,OR_31008861,"Late Delivery",Approved,2024-02-07
+RR_301001247,OR_31002025,"Defective Product",Rejected,2023-09-23
+RR_301001248,OR_31004567,"Late Delivery",Rejected,2024-03-25
+RR_301001249,OR_31008105,"Defective Product",Rejected,2024-04-07
+RR_301001250,OR_31006686,"Late Delivery",Approved,2024-10-12
+RR_301001251,OR_31009126,"Wrong Item Shipped",Rejected,2024-11-09
+RR_301001252,OR_31007120,"Wrong Item Shipped",Approved,2024-08-15
+RR_301001253,OR_31009455,"Defective Product",Approved,2024-09-19
+RR_301001254,OR_31004065,"Wrong Item Shipped",Approved,2024-04-23
+RR_301001255,OR_31003579,"Late Delivery",Approved,2024-04-07
+RR_301001256,OR_31001787,"Wrong Item Shipped",Rejected,2024-01-09
+RR_301001257,OR_31000255,"Late Delivery",Approved,2024-05-31
+RR_301001258,OR_31005177,"Late Delivery",Rejected,2024-01-08
+RR_301001259,OR_31005587,"Wrong Item Shipped",Approved,2023-06-09
+RR_301001260,OR_31007786,"Wrong Item Shipped",Rejected,2024-07-04
+RR_301001261,OR_31008356,"Defective Product",Rejected,2023-03-04
+RR_301001262,OR_31003612,"Wrong Item Shipped",Approved,2023-04-11
+RR_301001263,OR_31006336,"Defective Product",Approved,2024-07-27
+RR_301001264,OR_31004200,"Wrong Item Shipped",Rejected,2024-06-09
+RR_301001265,OR_31004684,"Late Delivery",Approved,2023-07-29
+RR_301001266,OR_31005660,"Late Delivery",Approved,2024-05-27
+RR_301001267,OR_31001193,"Defective Product",Approved,2024-06-16
+RR_301001268,OR_31000413,"Defective Product",Approved,2023-10-05
+RR_301001269,OR_31001913,"Wrong Item Shipped",Rejected,2023-10-13
+RR_301001270,OR_31007105,"Defective Product",Approved,2023-12-25
+RR_301001271,OR_31004576,"Late Delivery",Approved,2024-08-22
+RR_301001272,OR_31009265,"Late Delivery",Approved,2024-11-06
+RR_301001273,OR_31003971,"Late Delivery",Approved,2023-11-18
+RR_301001274,OR_31007713,"Late Delivery",Rejected,2023-03-04
+RR_301001275,OR_31009892,"Wrong Item Shipped",Rejected,2024-04-19
+RR_301001276,OR_31008501,"Wrong Item Shipped",Rejected,2023-04-05
+RR_301001277,OR_31004672,"Late Delivery",Rejected,2023-08-06
+RR_301001278,OR_31007351,"Late Delivery",Rejected,2024-06-19
+RR_301001279,OR_31001016,"Wrong Item Shipped",Approved,2023-12-11
+RR_301001280,OR_31005213,"Late Delivery",Rejected,2023-12-20
+RR_301001281,OR_31000888,"Defective Product",Approved,2023-04-13
+RR_301001282,OR_31008733,"Defective Product",Approved,2023-04-06
+RR_301001283,OR_31004286,"Wrong Item Shipped",Approved,2023-02-08
+RR_301001284,OR_31000654,"Defective Product",Rejected,2024-03-06
+RR_301001285,OR_31004116,"Wrong Item Shipped",Rejected,2024-09-28
+RR_301001286,OR_31002872,"Defective Product",Approved,2024-05-04
+RR_301001287,OR_31009477,"Wrong Item Shipped",Rejected,2024-05-02
+RR_301001288,OR_31004422,"Late Delivery",Rejected,2023-02-07
+RR_301001289,OR_31005776,"Late Delivery",Rejected,2023-08-11
+RR_301001290,OR_31007534,"Defective Product",Approved,2024-01-01
+RR_301001291,OR_31007380,"Late Delivery",Approved,2024-03-07
+RR_301001292,OR_31007633,"Late Delivery",Approved,2024-08-28
+RR_301001293,OR_31008791,"Late Delivery",Approved,2023-09-06
+RR_301001294,OR_31000579,"Wrong Item Shipped",Approved,2023-09-07
+RR_301001295,OR_31005942,"Wrong Item Shipped",Rejected,2023-06-14
+RR_301001296,OR_31005152,"Late Delivery",Approved,2023-09-06
+RR_301001297,OR_31000455,"Wrong Item Shipped",Rejected,2024-08-30
+RR_301001298,OR_31009798,"Defective Product",Rejected,2024-06-02
+RR_301001299,OR_31006251,"Wrong Item Shipped",Rejected,2024-10-19
+RR_301001300,OR_31006602,"Wrong Item Shipped",Approved,2023-04-22
+RR_301001301,OR_31004061,"Wrong Item Shipped",Approved,2024-10-09
+RR_301001302,OR_31005439,"Defective Product",Approved,2024-05-08
+RR_301001303,OR_31003636,"Late Delivery",Rejected,2024-02-27
+RR_301001304,OR_31003866,"Defective Product",Rejected,2024-01-08
+RR_301001305,OR_31009779,"Wrong Item Shipped",Rejected,2024-06-30
+RR_301001306,OR_31009779,"Wrong Item Shipped",Rejected,2024-01-28
+RR_301001307,OR_31002119,"Late Delivery",Approved,2023-05-11
+RR_301001308,OR_31000427,"Late Delivery",Rejected,2024-11-19
+RR_301001309,OR_31004052,"Defective Product",Approved,2024-05-04
+RR_301001310,OR_31003319,"Late Delivery",Approved,2023-05-12
+RR_301001311,OR_31001531,"Wrong Item Shipped",Rejected,2023-03-24
+RR_301001312,OR_31008471,"Defective Product",Rejected,2023-04-28
+RR_301001313,OR_31004858,"Defective Product",Approved,2024-05-14
+RR_301001314,OR_31005837,"Defective Product",Approved,2023-09-20
+RR_301001315,OR_31007378,"Wrong Item Shipped",Rejected,2023-08-02
+RR_301001316,OR_31005503,"Late Delivery",Rejected,2024-11-05
+RR_301001317,OR_31005947,"Wrong Item Shipped",Approved,2023-09-22
+RR_301001318,OR_31009394,"Late Delivery",Approved,2023-01-31
+RR_301001319,OR_31006377,"Wrong Item Shipped",Rejected,2023-08-02
+RR_301001320,OR_31001386,"Defective Product",Approved,2024-02-28
+RR_301001321,OR_31007792,"Wrong Item Shipped",Approved,2024-08-12
+RR_301001322,OR_31002263,"Late Delivery",Approved,2023-11-13
+RR_301001323,OR_31008098,"Wrong Item Shipped",Rejected,2024-09-06
+RR_301001324,OR_31001641,"Late Delivery",Rejected,2024-09-25
+RR_301001325,OR_31003980,"Late Delivery",Approved,2024-02-14
+RR_301001326,OR_31006608,"Wrong Item Shipped",Rejected,2024-09-03
+RR_301001327,OR_31004005,"Wrong Item Shipped",Rejected,2023-05-19
+RR_301001328,OR_31001598,"Defective Product",Rejected,2024-07-22
+RR_301001329,OR_31008079,"Late Delivery",Rejected,2024-06-29
+RR_301001330,OR_31005686,"Wrong Item Shipped",Approved,2024-11-02
+RR_301001331,OR_31004452,"Wrong Item Shipped",Approved,2023-09-29
+RR_301001332,OR_31008060,"Wrong Item Shipped",Approved,2023-06-19
+RR_301001333,OR_31009614,"Wrong Item Shipped",Rejected,2024-04-21
+RR_301001334,OR_31002472,"Defective Product",Rejected,2023-08-17
+RR_301001335,OR_31002266,"Late Delivery",Rejected,2024-06-21
+RR_301001336,OR_31000486,"Late Delivery",Rejected,2024-02-04
+RR_301001337,OR_31007917,"Defective Product",Approved,2024-09-25
+RR_301001338,OR_31000723,"Wrong Item Shipped",Approved,2023-08-02
+RR_301001339,OR_31001597,"Defective Product",Rejected,2023-06-25
+RR_301001340,OR_31004362,"Wrong Item Shipped",Rejected,2024-12-06
+RR_301001341,OR_31000879,"Late Delivery",Rejected,2023-02-03
+RR_301001342,OR_31002262,"Defective Product",Rejected,2024-05-26
+RR_301001343,OR_31009925,"Wrong Item Shipped",Approved,2024-01-01
+RR_301001344,OR_31006070,"Defective Product",Rejected,2023-11-05
+RR_301001345,OR_31000545,"Wrong Item Shipped",Approved,2024-10-17
+RR_301001346,OR_31006966,"Late Delivery",Approved,2023-04-08
+RR_301001347,OR_31000771,"Defective Product",Rejected,2024-12-05
+RR_301001348,OR_31006177,"Defective Product",Approved,2023-10-03
+RR_301001349,OR_31006568,"Defective Product",Rejected,2024-05-12
+RR_301001350,OR_31007237,"Wrong Item Shipped",Approved,2024-06-23
+RR_301001351,OR_31008822,"Late Delivery",Approved,2023-07-08
+RR_301001352,OR_31007667,"Late Delivery",Rejected,2023-11-07
+RR_301001353,OR_31004892,"Wrong Item Shipped",Rejected,2023-02-10
+RR_301001354,OR_31007746,"Wrong Item Shipped",Approved,2023-12-23
+RR_301001355,OR_31005536,"Defective Product",Approved,2024-03-20
+RR_301001356,OR_31003262,"Late Delivery",Rejected,2023-03-10
+RR_301001357,OR_31009511,"Defective Product",Approved,2024-10-10
+RR_301001358,OR_31003337,"Wrong Item Shipped",Approved,2023-05-27
+RR_301001359,OR_31000276,"Defective Product",Approved,2024-11-17
+RR_301001360,OR_31008411,"Late Delivery",Approved,2023-11-15
+RR_301001361,OR_31003647,"Late Delivery",Approved,2024-09-25
+RR_301001362,OR_31006180,"Defective Product",Rejected,2024-03-11
+RR_301001363,OR_31005902,"Wrong Item Shipped",Approved,2023-01-07
+RR_301001364,OR_31004530,"Late Delivery",Approved,2023-01-12
+RR_301001365,OR_31006468,"Wrong Item Shipped",Approved,2024-09-08
+RR_301001366,OR_31004075,"Defective Product",Rejected,2023-08-27
+RR_301001367,OR_31001088,"Defective Product",Rejected,2024-01-19
+RR_301001368,OR_31008921,"Defective Product",Approved,2024-07-04
+RR_301001369,OR_31003139,"Defective Product",Rejected,2023-07-28
+RR_301001370,OR_31006159,"Late Delivery",Approved,2024-10-30
+RR_301001371,OR_31000150,"Wrong Item Shipped",Approved,2024-01-22
+RR_301001372,OR_31005429,"Wrong Item Shipped",Approved,2023-12-07
+RR_301001373,OR_31003153,"Defective Product",Approved,2023-10-07
+RR_301001374,OR_31000866,"Wrong Item Shipped",Approved,2023-05-27
+RR_301001375,OR_31001498,"Wrong Item Shipped",Approved,2024-12-03
+RR_301001376,OR_31008556,"Wrong Item Shipped",Approved,2024-11-07
+RR_301001377,OR_31005493,"Wrong Item Shipped",Rejected,2023-10-18
+RR_301001378,OR_31005281,"Defective Product",Rejected,2024-12-11
+RR_301001379,OR_31008942,"Late Delivery",Approved,2023-06-24
+RR_301001380,OR_31003966,"Defective Product",Rejected,2024-06-07
+RR_301001381,OR_31005903,"Late Delivery",Rejected,2023-04-01
+RR_301001382,OR_31007094,"Late Delivery",Rejected,2024-03-22
+RR_301001383,OR_31007185,"Defective Product",Rejected,2024-12-10
+RR_301001384,OR_31003973,"Wrong Item Shipped",Approved,2024-02-11
+RR_301001385,OR_31005535,"Defective Product",Approved,2024-01-23
+RR_301001386,OR_31003870,"Wrong Item Shipped",Rejected,2024-04-03
+RR_301001387,OR_31003378,"Defective Product",Approved,2024-12-30
+RR_301001388,OR_31008841,"Defective Product",Approved,2023-05-15
+RR_301001389,OR_31005366,"Late Delivery",Rejected,2024-01-11
+RR_301001390,OR_31003033,"Late Delivery",Rejected,2023-02-22
+RR_301001391,OR_31006098,"Wrong Item Shipped",Rejected,2024-03-26
+RR_301001392,OR_31001396,"Late Delivery",Rejected,2023-06-26
+RR_301001393,OR_31001981,"Late Delivery",Rejected,2024-09-27
+RR_301001394,OR_31002745,"Defective Product",Rejected,2023-01-24
+RR_301001395,OR_31001085,"Defective Product",Rejected,2023-05-10
+RR_301001396,OR_31008321,"Defective Product",Approved,2023-12-12
+RR_301001397,OR_31000053,"Wrong Item Shipped",Approved,2024-10-24
+RR_301001398,OR_31002139,"Wrong Item Shipped",Rejected,2023-10-22
+RR_301001399,OR_31009398,"Wrong Item Shipped",Approved,2023-08-03
+RR_301001400,OR_31003067,"Late Delivery",Rejected,2024-10-05
+RR_301001401,OR_31008863,"Wrong Item Shipped",Rejected,2024-10-31
+RR_301001402,OR_31008889,"Wrong Item Shipped",Approved,2023-03-23
+RR_301001403,OR_31002040,"Late Delivery",Approved,2023-12-04
+RR_301001404,OR_31008711,"Defective Product",Rejected,2024-12-18
+RR_301001405,OR_31006041,"Wrong Item Shipped",Rejected,2024-07-19
+RR_301001406,OR_31006795,"Defective Product",Rejected,2024-07-15
+RR_301001407,OR_31004008,"Defective Product",Rejected,2024-09-25
+RR_301001408,OR_31001940,"Wrong Item Shipped",Rejected,2024-08-29
+RR_301001409,OR_31001369,"Defective Product",Rejected,2023-12-11
+RR_301001410,OR_31009811,"Defective Product",Approved,2024-06-15
+RR_301001411,OR_31002914,"Late Delivery",Rejected,2024-01-11
+RR_301001412,OR_31006496,"Late Delivery",Rejected,2024-08-21
+RR_301001413,OR_31003217,"Wrong Item Shipped",Rejected,2023-08-12
+RR_301001414,OR_31002678,"Late Delivery",Approved,2023-05-07
+RR_301001415,OR_31002662,"Defective Product",Rejected,2024-11-28
+RR_301001416,OR_31002036,"Defective Product",Rejected,2024-02-01
+RR_301001417,OR_31004557,"Wrong Item Shipped",Rejected,2023-03-30
+RR_301001418,OR_31007675,"Late Delivery",Rejected,2024-10-20
+RR_301001419,OR_31002679,"Defective Product",Approved,2023-02-15
+RR_301001420,OR_31000523,"Wrong Item Shipped",Rejected,2023-08-06
+RR_301001421,OR_31007339,"Late Delivery",Approved,2023-07-19
+RR_301001422,OR_31008579,"Defective Product",Rejected,2023-04-01
+RR_301001423,OR_31001784,"Wrong Item Shipped",Rejected,2023-02-07
+RR_301001424,OR_31000137,"Wrong Item Shipped",Approved,2023-03-15
+RR_301001425,OR_31000372,"Late Delivery",Rejected,2023-04-28
+RR_301001426,OR_31006584,"Wrong Item Shipped",Rejected,2023-01-11
+RR_301001427,OR_31004496,"Wrong Item Shipped",Rejected,2024-04-05
+RR_301001428,OR_31004446,"Late Delivery",Approved,2024-05-08
+RR_301001429,OR_31001911,"Late Delivery",Rejected,2024-08-01
+RR_301001430,OR_31001273,"Late Delivery",Rejected,2024-03-24
+RR_301001431,OR_31005810,"Defective Product",Approved,2024-09-09
+RR_301001432,OR_31006596,"Late Delivery",Approved,2023-09-11
+RR_301001433,OR_31000464,"Defective Product",Approved,2024-11-07
+RR_301001434,OR_31001024,"Wrong Item Shipped",Approved,2023-06-10
+RR_301001435,OR_31009872,"Defective Product",Rejected,2023-05-29
+RR_301001436,OR_31008515,"Wrong Item Shipped",Rejected,2023-08-14
+RR_301001437,OR_31003949,"Defective Product",Approved,2023-07-11
+RR_301001438,OR_31005118,"Late Delivery",Rejected,2023-03-14
+RR_301001439,OR_31006106,"Late Delivery",Approved,2024-09-15
+RR_301001440,OR_31001402,"Wrong Item Shipped",Approved,2023-04-29
+RR_301001441,OR_31003117,"Defective Product",Rejected,2023-03-08
+RR_301001442,OR_31005820,"Defective Product",Approved,2023-10-30
+RR_301001443,OR_31009500,"Defective Product",Rejected,2023-01-11
+RR_301001444,OR_31003816,"Wrong Item Shipped",Rejected,2023-02-03
+RR_301001445,OR_31002380,"Wrong Item Shipped",Rejected,2023-11-12
+RR_301001446,OR_31004191,"Late Delivery",Rejected,2023-06-11
+RR_301001447,OR_31002161,"Wrong Item Shipped",Approved,2024-11-17
+RR_301001448,OR_31007608,"Late Delivery",Rejected,2024-12-28
+RR_301001449,OR_31008929,"Wrong Item Shipped",Approved,2023-08-04
+RR_301001450,OR_31003174,"Defective Product",Approved,2024-11-30
+RR_301001451,OR_31008767,"Late Delivery",Rejected,2023-10-16
+RR_301001452,OR_31000927,"Wrong Item Shipped",Rejected,2023-07-27
+RR_301001453,OR_31004966,"Late Delivery",Rejected,2023-10-16
+RR_301001454,OR_31004547,"Defective Product",Approved,2024-02-08
+RR_301001455,OR_31005549,"Late Delivery",Approved,2024-11-03
+RR_301001456,OR_31000966,"Defective Product",Approved,2024-06-25
+RR_301001457,OR_31002428,"Wrong Item Shipped",Rejected,2023-08-22
+RR_301001458,OR_31007091,"Defective Product",Rejected,2023-11-15
+RR_301001459,OR_31002226,"Late Delivery",Rejected,2023-08-13
+RR_301001460,OR_31005791,"Late Delivery",Rejected,2024-05-19
+RR_301001461,OR_31002805,"Wrong Item Shipped",Approved,2023-03-10
+RR_301001462,OR_31005728,"Late Delivery",Approved,2024-12-05
+RR_301001463,OR_31005802,"Late Delivery",Rejected,2024-10-30
+RR_301001464,OR_31003403,"Wrong Item Shipped",Approved,2023-12-04
+RR_301001465,OR_31009119,"Defective Product",Rejected,2023-07-09
+RR_301001466,OR_31003667,"Defective Product",Rejected,2023-10-25
+RR_301001467,OR_31005975,"Wrong Item Shipped",Approved,2023-10-30
+RR_301001468,OR_31008043,"Wrong Item Shipped",Approved,2023-12-13
+RR_301001469,OR_31003049,"Late Delivery",Rejected,2023-12-11
+RR_301001470,OR_31003405,"Wrong Item Shipped",Approved,2024-05-19
+RR_301001471,OR_31004540,"Wrong Item Shipped",Rejected,2024-11-28
+RR_301001472,OR_31007708,"Wrong Item Shipped",Rejected,2023-09-13
+RR_301001473,OR_31005333,"Defective Product",Approved,2023-12-20
+RR_301001474,OR_31007618,"Wrong Item Shipped",Approved,2024-11-10
+RR_301001475,OR_31002697,"Wrong Item Shipped",Rejected,2024-08-08
+RR_301001476,OR_31000844,"Late Delivery",Rejected,2023-08-23
+RR_301001477,OR_31008768,"Defective Product",Rejected,2023-06-21
+RR_301001478,OR_31000135,"Defective Product",Rejected,2024-05-12
+RR_301001479,OR_31006898,"Late Delivery",Approved,2024-02-27
+RR_301001480,OR_31006189,"Defective Product",Rejected,2024-05-30
+RR_301001481,OR_31006955,"Late Delivery",Approved,2023-07-06
+RR_301001482,OR_31008460,"Wrong Item Shipped",Approved,2024-01-09
+RR_301001483,OR_31003878,"Late Delivery",Rejected,2024-04-01
+RR_301001484,OR_31006369,"Wrong Item Shipped",Rejected,2024-02-05
+RR_301001485,OR_31006823,"Late Delivery",Rejected,2023-05-31
+RR_301001486,OR_31001958,"Wrong Item Shipped",Approved,2023-07-20
+RR_301001487,OR_31006189,"Late Delivery",Approved,2024-11-11
+RR_301001488,OR_31005015,"Late Delivery",Rejected,2024-09-09
+RR_301001489,OR_31007080,"Late Delivery",Rejected,2024-10-06
+RR_301001490,OR_31001989,"Wrong Item Shipped",Approved,2024-04-17
+RR_301001491,OR_31002462,"Defective Product",Approved,2024-07-23
+RR_301001492,OR_31002152,"Wrong Item Shipped",Rejected,2024-05-13
+RR_301001493,OR_31003180,"Defective Product",Rejected,2024-02-21
+RR_301001494,OR_31002845,"Wrong Item Shipped",Rejected,2023-08-14
+RR_301001495,OR_31004254,"Defective Product",Approved,2024-11-29
+RR_301001496,OR_31003998,"Defective Product",Approved,2024-05-12
+RR_301001497,OR_31004422,"Defective Product",Rejected,2023-02-22
+RR_301001498,OR_31000458,"Wrong Item Shipped",Rejected,2024-04-03
+RR_301001499,OR_31007123,"Wrong Item Shipped",Approved,2024-08-10
+RR_301001500,OR_31002127,"Wrong Item Shipped",Rejected,2024-08-11
+RR_301001501,OR_31005184,"Late Delivery",Approved,2024-11-01
+RR_301001502,OR_31009088,"Wrong Item Shipped",Approved,2023-12-09
+RR_301001503,OR_31006947,"Wrong Item Shipped",Approved,2023-08-07
+RR_301001504,OR_31002678,"Late Delivery",Approved,2023-07-29
+RR_301001505,OR_31005348,"Late Delivery",Approved,2023-11-15
+RR_301001506,OR_31001777,"Defective Product",Approved,2023-04-21
+RR_301001507,OR_31007030,"Wrong Item Shipped",Approved,2023-06-24
+RR_301001508,OR_31002805,"Wrong Item Shipped",Approved,2023-02-22
+RR_301001509,OR_31003232,"Late Delivery",Approved,2024-12-08
+RR_301001510,OR_31003533,"Wrong Item Shipped",Approved,2024-02-13
+RR_301001511,OR_31004817,"Wrong Item Shipped",Approved,2023-08-30
+RR_301001512,OR_31003286,"Defective Product",Rejected,2023-11-11
+RR_301001513,OR_31003054,"Late Delivery",Approved,2024-02-25
+RR_301001514,OR_31007947,"Late Delivery",Approved,2023-12-22
+RR_301001515,OR_31007243,"Late Delivery",Rejected,2024-12-08
+RR_301001516,OR_31005048,"Late Delivery",Rejected,2024-07-13
+RR_301001517,OR_31000709,"Late Delivery",Rejected,2024-07-26
+RR_301001518,OR_31006078,"Defective Product",Approved,2024-10-16
+RR_301001519,OR_31003588,"Wrong Item Shipped",Approved,2024-12-18
+RR_301001520,OR_31005933,"Defective Product",Rejected,2023-01-18
+RR_301001521,OR_31000798,"Late Delivery",Rejected,2023-02-24
+RR_301001522,OR_31002286,"Defective Product",Rejected,2023-09-10
+RR_301001523,OR_31005146,"Defective Product",Rejected,2023-06-21
+RR_301001524,OR_31005434,"Defective Product",Approved,2024-03-23
+RR_301001525,OR_31000441,"Wrong Item Shipped",Rejected,2024-10-26
+RR_301001526,OR_31008631,"Defective Product",Rejected,2024-12-26
+RR_301001527,OR_31005914,"Defective Product",Rejected,2023-02-14
+RR_301001528,OR_31007540,"Defective Product",Approved,2024-03-30
+RR_301001529,OR_31008691,"Wrong Item Shipped",Approved,2023-05-28
+RR_301001530,OR_31007502,"Late Delivery",Rejected,2023-06-17
+RR_301001531,OR_31009355,"Defective Product",Rejected,2023-10-18
+RR_301001532,OR_31008435,"Defective Product",Approved,2024-07-12
+RR_301001533,OR_31002625,"Wrong Item Shipped",Rejected,2023-08-30
+RR_301001534,OR_31003880,"Wrong Item Shipped",Approved,2024-09-11
+RR_301001535,OR_31000624,"Defective Product",Approved,2024-12-19
+RR_301001536,OR_31007746,"Defective Product",Rejected,2023-10-04
+RR_301001537,OR_31008552,"Defective Product",Approved,2024-07-28
+RR_301001538,OR_31001703,"Wrong Item Shipped",Approved,2023-01-03
+RR_301001539,OR_31002993,"Defective Product",Approved,2023-07-16
+RR_301001540,OR_31000593,"Wrong Item Shipped",Rejected,2024-07-04
+RR_301001541,OR_31000039,"Defective Product",Rejected,2023-08-23
+RR_301001542,OR_31004434,"Wrong Item Shipped",Rejected,2023-10-26
+RR_301001543,OR_31009637,"Late Delivery",Approved,2023-02-16
+RR_301001544,OR_31001922,"Defective Product",Rejected,2024-08-06
+RR_301001545,OR_31002118,"Defective Product",Approved,2024-04-12
+RR_301001546,OR_31004954,"Wrong Item Shipped",Rejected,2023-01-12
+RR_301001547,OR_31004600,"Defective Product",Rejected,2024-12-18
+RR_301001548,OR_31008377,"Wrong Item Shipped",Rejected,2023-12-29
+RR_301001549,OR_31005452,"Late Delivery",Rejected,2023-12-13
+RR_301001550,OR_31007188,"Wrong Item Shipped",Rejected,2023-03-12
+RR_301001551,OR_31007027,"Defective Product",Approved,2023-08-19
+RR_301001552,OR_31006744,"Late Delivery",Rejected,2023-09-05
+RR_301001553,OR_31006047,"Wrong Item Shipped",Approved,2023-02-06
+RR_301001554,OR_31008144,"Defective Product",Rejected,2023-08-23
+RR_301001555,OR_31009407,"Late Delivery",Rejected,2023-11-27
+RR_301001556,OR_31009974,"Late Delivery",Approved,2024-03-27
+RR_301001557,OR_31005933,"Wrong Item Shipped",Rejected,2024-10-16
+RR_301001558,OR_31000431,"Late Delivery",Rejected,2023-03-13
+RR_301001559,OR_31000870,"Defective Product",Approved,2023-07-27
+RR_301001560,OR_31001845,"Defective Product",Rejected,2023-01-07
+RR_301001561,OR_31000600,"Wrong Item Shipped",Approved,2023-02-07
+RR_301001562,OR_31002828,"Wrong Item Shipped",Approved,2023-11-17
+RR_301001563,OR_31004808,"Wrong Item Shipped",Approved,2024-01-18
+RR_301001564,OR_31008300,"Late Delivery",Rejected,2023-02-14
+RR_301001565,OR_31001657,"Wrong Item Shipped",Rejected,2023-05-05
+RR_301001566,OR_31008452,"Late Delivery",Approved,2023-07-02
+RR_301001567,OR_31003225,"Late Delivery",Approved,2023-09-21
+RR_301001568,OR_31009139,"Late Delivery",Approved,2024-04-26
+RR_301001569,OR_31004951,"Defective Product",Rejected,2024-01-13
+RR_301001570,OR_31001544,"Late Delivery",Approved,2024-09-12
+RR_301001571,OR_31004697,"Defective Product",Approved,2024-06-29
+RR_301001572,OR_31005035,"Defective Product",Approved,2023-05-13
+RR_301001573,OR_31006812,"Defective Product",Rejected,2024-02-01
+RR_301001574,OR_31009025,"Late Delivery",Rejected,2023-11-09
+RR_301001575,OR_31007146,"Late Delivery",Approved,2023-12-22
+RR_301001576,OR_31008209,"Defective Product",Rejected,2024-07-14
+RR_301001577,OR_31007635,"Late Delivery",Approved,2023-01-10
+RR_301001578,OR_31009156,"Late Delivery",Rejected,2024-07-30
+RR_301001579,OR_31004553,"Late Delivery",Approved,2024-06-06
+RR_301001580,OR_31004864,"Defective Product",Approved,2023-08-15
+RR_301001581,OR_31002300,"Late Delivery",Approved,2024-10-03
+RR_301001582,OR_31001486,"Late Delivery",Rejected,2024-09-12
+RR_301001583,OR_31006143,"Late Delivery",Rejected,2023-06-14
+RR_301001584,OR_31009690,"Wrong Item Shipped",Approved,2023-10-26
+RR_301001585,OR_31009914,"Late Delivery",Rejected,2023-11-14
+RR_301001586,OR_31000671,"Wrong Item Shipped",Approved,2023-07-27
+RR_301001587,OR_31006916,"Wrong Item Shipped",Approved,2023-09-03
+RR_301001588,OR_31001086,"Wrong Item Shipped",Rejected,2023-04-02
+RR_301001589,OR_31008078,"Wrong Item Shipped",Rejected,2023-11-18
+RR_301001590,OR_31006290,"Late Delivery",Rejected,2024-06-08
+RR_301001591,OR_31009461,"Wrong Item Shipped",Rejected,2023-01-18
+RR_301001592,OR_31001984,"Defective Product",Approved,2024-10-08
+RR_301001593,OR_31002347,"Defective Product",Approved,2024-06-21
+RR_301001594,OR_31004518,"Wrong Item Shipped",Rejected,2024-12-10
+RR_301001595,OR_31008240,"Wrong Item Shipped",Approved,2023-05-21
+RR_301001596,OR_31002402,"Late Delivery",Approved,2024-02-02
+RR_301001597,OR_31003330,"Late Delivery",Approved,2023-07-22
+RR_301001598,OR_31002131,"Wrong Item Shipped",Approved,2023-12-13
+RR_301001599,OR_31000251,"Late Delivery",Rejected,2023-05-30
+RR_301001600,OR_31007996,"Wrong Item Shipped",Rejected,2024-02-09
+RR_301001601,OR_31003341,"Defective Product",Rejected,2023-05-19
+RR_301001602,OR_31002458,"Wrong Item Shipped",Approved,2024-08-19
+RR_301001603,OR_31002032,"Wrong Item Shipped",Rejected,2024-09-08
+RR_301001604,OR_31002916,"Late Delivery",Approved,2024-05-10
+RR_301001605,OR_31001576,"Defective Product",Approved,2023-02-17
+RR_301001606,OR_31007672,"Wrong Item Shipped",Rejected,2023-01-17
+RR_301001607,OR_31009827,"Late Delivery",Rejected,2023-03-11
+RR_301001608,OR_31008437,"Wrong Item Shipped",Rejected,2024-06-13
+RR_301001609,OR_31007470,"Late Delivery",Approved,2024-08-03
+RR_301001610,OR_31003540,"Wrong Item Shipped",Rejected,2024-07-09
+RR_301001611,OR_31004169,"Late Delivery",Approved,2023-12-13
+RR_301001612,OR_31008262,"Late Delivery",Rejected,2023-04-01
+RR_301001613,OR_31002507,"Late Delivery",Rejected,2023-03-04
+RR_301001614,OR_31009935,"Late Delivery",Rejected,2023-10-31
+RR_301001615,OR_31006640,"Defective Product",Rejected,2024-05-29
+RR_301001616,OR_31006513,"Wrong Item Shipped",Rejected,2024-12-10
+RR_301001617,OR_31002037,"Wrong Item Shipped",Rejected,2024-10-02
+RR_301001618,OR_31004080,"Defective Product",Approved,2023-04-05
+RR_301001619,OR_31009820,"Wrong Item Shipped",Approved,2024-07-16
+RR_301001620,OR_31001868,"Late Delivery",Approved,2023-01-27
+RR_301001621,OR_31007449,"Defective Product",Rejected,2024-12-02
+RR_301001622,OR_31003885,"Defective Product",Rejected,2024-06-27
+RR_301001623,OR_31002489,"Defective Product",Approved,2023-07-18
+RR_301001624,OR_31002196,"Wrong Item Shipped",Approved,2024-02-29
+RR_301001625,OR_31007843,"Late Delivery",Rejected,2024-04-29
+RR_301001626,OR_31009366,"Defective Product",Approved,2023-02-01
+RR_301001627,OR_31009392,"Late Delivery",Rejected,2023-12-17
+RR_301001628,OR_31000272,"Defective Product",Rejected,2023-12-25
+RR_301001629,OR_31008468,"Wrong Item Shipped",Rejected,2024-03-01
+RR_301001630,OR_31007023,"Late Delivery",Rejected,2023-03-12
+RR_301001631,OR_31003639,"Wrong Item Shipped",Approved,2023-02-23
+RR_301001632,OR_31004255,"Wrong Item Shipped",Rejected,2024-04-29
+RR_301001633,OR_31001611,"Late Delivery",Rejected,2024-03-17
+RR_301001634,OR_31002458,"Defective Product",Rejected,2024-12-22
+RR_301001635,OR_31003081,"Wrong Item Shipped",Approved,2024-04-15
+RR_301001636,OR_31009655,"Late Delivery",Approved,2024-05-25
+RR_301001637,OR_31005071,"Wrong Item Shipped",Approved,2023-10-10
+RR_301001638,OR_31001032,"Wrong Item Shipped",Approved,2023-09-28
+RR_301001639,OR_31008481,"Defective Product",Rejected,2024-03-29
+RR_301001640,OR_31002207,"Wrong Item Shipped",Approved,2024-04-12
+RR_301001641,OR_31001984,"Late Delivery",Approved,2024-03-27
+RR_301001642,OR_31006452,"Defective Product",Rejected,2023-10-31
+RR_301001643,OR_31001628,"Wrong Item Shipped",Rejected,2023-06-24
+RR_301001644,OR_31000470,"Defective Product",Rejected,2023-05-08
+RR_301001645,OR_31001334,"Defective Product",Rejected,2023-09-29
+RR_301001646,OR_31002504,"Late Delivery",Rejected,2023-03-02
+RR_301001647,OR_31007010,"Late Delivery",Rejected,2023-11-24
+RR_301001648,OR_31005596,"Wrong Item Shipped",Approved,2023-03-13
+RR_301001649,OR_31007993,"Wrong Item Shipped",Rejected,2024-01-13
+RR_301001650,OR_31009435,"Defective Product",Rejected,2023-07-01
+RR_301001651,OR_31002533,"Defective Product",Approved,2023-11-14
+RR_301001652,OR_31006047,"Late Delivery",Rejected,2023-06-10
+RR_301001653,OR_31001960,"Wrong Item Shipped",Approved,2024-08-11
+RR_301001654,OR_31002658,"Wrong Item Shipped",Rejected,2023-02-11
+RR_301001655,OR_31001399,"Late Delivery",Rejected,2024-11-23
+RR_301001656,OR_31006421,"Late Delivery",Approved,2024-01-22
+RR_301001657,OR_31001933,"Wrong Item Shipped",Rejected,2024-09-04
+RR_301001658,OR_31003237,"Late Delivery",Approved,2023-03-31
+RR_301001659,OR_31001546,"Wrong Item Shipped",Approved,2024-01-11
+RR_301001660,OR_31001920,"Late Delivery",Approved,2024-05-06
+RR_301001661,OR_31008339,"Defective Product",Rejected,2024-05-21
+RR_301001662,OR_31007803,"Defective Product",Rejected,2023-11-06
+RR_301001663,OR_31006344,"Defective Product",Rejected,2023-01-14
+RR_301001664,OR_31005675,"Defective Product",Approved,2024-01-31
+RR_301001665,OR_31002707,"Defective Product",Approved,2024-01-16
+RR_301001666,OR_31002315,"Defective Product",Rejected,2023-09-28
+RR_301001667,OR_31002057,"Defective Product",Approved,2024-05-11
+RR_301001668,OR_31008027,"Defective Product",Approved,2024-06-13
+RR_301001669,OR_31002141,"Wrong Item Shipped",Approved,2024-05-23
+RR_301001670,OR_31004176,"Defective Product",Rejected,2024-02-04
+RR_301001671,OR_31002273,"Defective Product",Rejected,2024-02-12
+RR_301001672,OR_31004966,"Wrong Item Shipped",Rejected,2023-12-15
+RR_301001673,OR_31008346,"Late Delivery",Approved,2024-08-13
+RR_301001674,OR_31002933,"Defective Product",Rejected,2023-09-24
+RR_301001675,OR_31002097,"Defective Product",Rejected,2023-08-26
+RR_301001676,OR_31008375,"Wrong Item Shipped",Rejected,2024-02-22
+RR_301001677,OR_31006679,"Wrong Item Shipped",Approved,2023-12-26
+RR_301001678,OR_31000067,"Wrong Item Shipped",Rejected,2023-06-24
+RR_301001679,OR_31007114,"Defective Product",Approved,2023-03-08
+RR_301001680,OR_31007437,"Late Delivery",Approved,2023-10-20
+RR_301001681,OR_31005729,"Wrong Item Shipped",Rejected,2023-03-05
+RR_301001682,OR_31003172,"Wrong Item Shipped",Rejected,2023-07-12
+RR_301001683,OR_31004768,"Wrong Item Shipped",Rejected,2023-10-26
+RR_301001684,OR_31003352,"Wrong Item Shipped",Rejected,2023-07-16
+RR_301001685,OR_31003980,"Defective Product",Rejected,2024-11-08
+RR_301001686,OR_31004796,"Late Delivery",Rejected,2024-10-24
+RR_301001687,OR_31005788,"Wrong Item Shipped",Rejected,2024-07-15
+RR_301001688,OR_31005938,"Defective Product",Rejected,2024-02-18
+RR_301001689,OR_31003711,"Defective Product",Approved,2023-01-14
+RR_301001690,OR_31006246,"Defective Product",Approved,2023-10-19
+RR_301001691,OR_31007108,"Late Delivery",Rejected,2024-07-05
+RR_301001692,OR_31001117,"Wrong Item Shipped",Approved,2024-01-16
+RR_301001693,OR_31001209,"Defective Product",Approved,2023-06-16
+RR_301001694,OR_31002322,"Defective Product",Approved,2024-11-28
+RR_301001695,OR_31002782,"Wrong Item Shipped",Rejected,2023-09-21
+RR_301001696,OR_31001605,"Late Delivery",Approved,2023-11-28
+RR_301001697,OR_31007839,"Wrong Item Shipped",Approved,2024-05-20
+RR_301001698,OR_31000100,"Late Delivery",Approved,2024-06-17
+RR_301001699,OR_31009093,"Late Delivery",Approved,2023-05-11
+RR_301001700,OR_31007691,"Wrong Item Shipped",Approved,2024-02-29
+RR_301001701,OR_31006748,"Late Delivery",Rejected,2024-08-25
+RR_301001702,OR_31009954,"Wrong Item Shipped",Approved,2023-09-05
+RR_301001703,OR_31002727,"Late Delivery",Rejected,2023-06-14
+RR_301001704,OR_31006043,"Late Delivery",Approved,2023-12-30
+RR_301001705,OR_31006819,"Late Delivery",Approved,2023-06-28
+RR_301001706,OR_31001924,"Defective Product",Rejected,2024-10-04
+RR_301001707,OR_31008218,"Wrong Item Shipped",Approved,2024-01-02
+RR_301001708,OR_31002438,"Wrong Item Shipped",Approved,2024-10-18
+RR_301001709,OR_31004280,"Wrong Item Shipped",Approved,2024-12-05
+RR_301001710,OR_31008605,"Defective Product",Rejected,2023-06-08
+RR_301001711,OR_31000632,"Wrong Item Shipped",Approved,2024-01-15
+RR_301001712,OR_31008433,"Wrong Item Shipped",Rejected,2024-07-27
+RR_301001713,OR_31007683,"Wrong Item Shipped",Rejected,2024-04-27
+RR_301001714,OR_31009300,"Defective Product",Rejected,2023-06-25
+RR_301001715,OR_31008508,"Wrong Item Shipped",Rejected,2023-09-30
+RR_301001716,OR_31007841,"Wrong Item Shipped",Rejected,2024-02-13
+RR_301001717,OR_31007315,"Late Delivery",Approved,2023-11-11
+RR_301001718,OR_31009919,"Late Delivery",Rejected,2024-02-16
+RR_301001719,OR_31000742,"Wrong Item Shipped",Rejected,2023-08-16
+RR_301001720,OR_31000827,"Wrong Item Shipped",Approved,2024-01-29
+RR_301001721,OR_31001797,"Late Delivery",Rejected,2023-02-03
+RR_301001722,OR_31002955,"Wrong Item Shipped",Approved,2024-12-13
+RR_301001723,OR_31003088,"Late Delivery",Approved,2024-12-08
+RR_301001724,OR_31008031,"Late Delivery",Rejected,2024-11-13
+RR_301001725,OR_31000603,"Late Delivery",Rejected,2024-12-16
+RR_301001726,OR_31002658,"Defective Product",Approved,2023-06-18
+RR_301001727,OR_31001452,"Late Delivery",Approved,2023-08-28
+RR_301001728,OR_31005185,"Defective Product",Approved,2023-03-04
+RR_301001729,OR_31007128,"Defective Product",Approved,2023-12-20
+RR_301001730,OR_31004949,"Late Delivery",Rejected,2023-06-24
+RR_301001731,OR_31001692,"Wrong Item Shipped",Rejected,2024-08-24
+RR_301001732,OR_31006147,"Late Delivery",Approved,2024-06-08
+RR_301001733,OR_31005879,"Defective Product",Rejected,2023-09-28
+RR_301001734,OR_31006452,"Defective Product",Approved,2024-11-22
+RR_301001735,OR_31003235,"Defective Product",Rejected,2024-02-18
+RR_301001736,OR_31004706,"Late Delivery",Approved,2023-02-22
+RR_301001737,OR_31007156,"Defective Product",Approved,2023-10-19
+RR_301001738,OR_31006373,"Defective Product",Rejected,2023-04-08
+RR_301001739,OR_31006236,"Late Delivery",Rejected,2024-12-27
+RR_301001740,OR_31000942,"Late Delivery",Rejected,2024-01-16
+RR_301001741,OR_31000087,"Defective Product",Approved,2023-03-12
+RR_301001742,OR_31003983,"Wrong Item Shipped",Approved,2023-04-14
+RR_301001743,OR_31006639,"Defective Product",Approved,2023-03-24
+RR_301001744,OR_31003142,"Wrong Item Shipped",Rejected,2023-03-02
+RR_301001745,OR_31003161,"Wrong Item Shipped",Rejected,2023-09-28
+RR_301001746,OR_31002617,"Defective Product",Approved,2024-05-24
+RR_301001747,OR_31002807,"Wrong Item Shipped",Rejected,2023-12-30
+RR_301001748,OR_31001668,"Wrong Item Shipped",Approved,2023-10-07
+RR_301001749,OR_31008493,"Late Delivery",Approved,2024-04-06
+RR_301001750,OR_31007612,"Late Delivery",Rejected,2023-07-11
+RR_301001751,OR_31009235,"Late Delivery",Approved,2024-12-04
+RR_301001752,OR_31000760,"Late Delivery",Rejected,2024-11-17
+RR_301001753,OR_31003953,"Late Delivery",Approved,2024-12-08
+RR_301001754,OR_31007877,"Defective Product",Approved,2024-06-05
+RR_301001755,OR_31003340,"Defective Product",Rejected,2024-05-22
+RR_301001756,OR_31008705,"Late Delivery",Approved,2024-01-17
+RR_301001757,OR_31005139,"Wrong Item Shipped",Rejected,2023-02-25
+RR_301001758,OR_31000143,"Defective Product",Approved,2023-06-28
+RR_301001759,OR_31007037,"Defective Product",Approved,2023-10-06
+RR_301001760,OR_31006644,"Late Delivery",Rejected,2023-05-25
+RR_301001761,OR_31003300,"Late Delivery",Approved,2024-07-23
+RR_301001762,OR_31004178,"Defective Product",Approved,2023-05-18
+RR_301001763,OR_31004905,"Late Delivery",Rejected,2024-08-20
+RR_301001764,OR_31007234,"Wrong Item Shipped",Rejected,2024-11-20
+RR_301001765,OR_31000790,"Late Delivery",Rejected,2023-01-04
+RR_301001766,OR_31000027,"Defective Product",Rejected,2024-07-25
+RR_301001767,OR_31001977,"Defective Product",Rejected,2024-01-05
+RR_301001768,OR_31009199,"Wrong Item Shipped",Approved,2023-12-24
+RR_301001769,OR_31008977,"Late Delivery",Rejected,2023-11-14
+RR_301001770,OR_31002129,"Defective Product",Approved,2023-07-31
+RR_301001771,OR_31005157,"Wrong Item Shipped",Rejected,2023-06-25
+RR_301001772,OR_31003677,"Defective Product",Rejected,2023-09-01
+RR_301001773,OR_31001947,"Defective Product",Rejected,2023-01-28
+RR_301001774,OR_31003324,"Defective Product",Approved,2023-02-25
+RR_301001775,OR_31000784,"Wrong Item Shipped",Approved,2023-10-30
+RR_301001776,OR_31003518,"Wrong Item Shipped",Approved,2024-07-01
+RR_301001777,OR_31000218,"Defective Product",Rejected,2023-12-06
+RR_301001778,OR_31000583,"Wrong Item Shipped",Rejected,2024-05-01
+RR_301001779,OR_31003801,"Wrong Item Shipped",Approved,2023-09-26
+RR_301001780,OR_31007220,"Defective Product",Rejected,2024-08-05
+RR_301001781,OR_31009120,"Late Delivery",Rejected,2023-07-20
+RR_301001782,OR_31000448,"Wrong Item Shipped",Approved,2024-09-30
+RR_301001783,OR_31001023,"Late Delivery",Rejected,2023-09-18
+RR_301001784,OR_31000130,"Wrong Item Shipped",Rejected,2024-01-08
+RR_301001785,OR_31008401,"Wrong Item Shipped",Approved,2024-02-06
+RR_301001786,OR_31006233,"Wrong Item Shipped",Approved,2023-07-04
+RR_301001787,OR_31008471,"Defective Product",Approved,2023-02-08
+RR_301001788,OR_31005754,"Wrong Item Shipped",Approved,2023-10-03
+RR_301001789,OR_31000640,"Wrong Item Shipped",Approved,2023-10-01
+RR_301001790,OR_31008860,"Wrong Item Shipped",Rejected,2024-09-28
+RR_301001791,OR_31005251,"Late Delivery",Rejected,2023-10-28
+RR_301001792,OR_31007779,"Defective Product",Rejected,2024-10-01
+RR_301001793,OR_31007928,"Wrong Item Shipped",Approved,2023-06-26
+RR_301001794,OR_31001468,"Late Delivery",Rejected,2023-05-09
+RR_301001795,OR_31002685,"Late Delivery",Rejected,2024-07-24
+RR_301001796,OR_31000997,"Late Delivery",Rejected,2024-11-23
+RR_301001797,OR_31006566,"Wrong Item Shipped",Approved,2024-02-11
+RR_301001798,OR_31001541,"Defective Product",Approved,2024-02-22
+RR_301001799,OR_31005822,"Late Delivery",Approved,2024-10-06
+RR_301001800,OR_31002932,"Wrong Item Shipped",Approved,2024-09-09
+RR_301001801,OR_31003514,"Late Delivery",Approved,2023-11-11
+RR_301001802,OR_31000706,"Defective Product",Rejected,2024-07-02
+RR_301001803,OR_31005956,"Late Delivery",Approved,2024-03-16
+RR_301001804,OR_31006466,"Defective Product",Rejected,2023-07-06
+RR_301001805,OR_31006663,"Wrong Item Shipped",Rejected,2023-05-25
+RR_301001806,OR_31001751,"Late Delivery",Rejected,2023-09-04
+RR_301001807,OR_31004590,"Defective Product",Rejected,2024-10-19
+RR_301001808,OR_31006583,"Late Delivery",Rejected,2024-09-27
+RR_301001809,OR_31003774,"Late Delivery",Approved,2023-04-20
+RR_301001810,OR_31003816,"Wrong Item Shipped",Rejected,2023-04-22
+RR_301001811,OR_31009149,"Late Delivery",Approved,2024-01-08
+RR_301001812,OR_31001579,"Late Delivery",Approved,2024-05-01
+RR_301001813,OR_31009232,"Defective Product",Approved,2023-02-20
+RR_301001814,OR_31000828,"Late Delivery",Rejected,2024-03-18
+RR_301001815,OR_31008409,"Late Delivery",Rejected,2023-09-07
+RR_301001816,OR_31006407,"Wrong Item Shipped",Approved,2023-11-12
+RR_301001817,OR_31004419,"Late Delivery",Approved,2023-07-08
+RR_301001818,OR_31006529,"Defective Product",Rejected,2024-01-31
+RR_301001819,OR_31002323,"Late Delivery",Approved,2024-05-09
+RR_301001820,OR_31000234,"Defective Product",Rejected,2024-08-06
+RR_301001821,OR_31009060,"Defective Product",Rejected,2024-04-19
+RR_301001822,OR_31000171,"Wrong Item Shipped",Approved,2024-12-05
+RR_301001823,OR_31007052,"Wrong Item Shipped",Rejected,2023-02-09
+RR_301001824,OR_31004040,"Late Delivery",Approved,2024-07-12
+RR_301001825,OR_31007896,"Wrong Item Shipped",Approved,2023-08-08
+RR_301001826,OR_31009924,"Late Delivery",Rejected,2023-10-22
+RR_301001827,OR_31000285,"Late Delivery",Rejected,2024-11-19
+RR_301001828,OR_31006984,"Late Delivery",Rejected,2023-04-18
+RR_301001829,OR_31004957,"Late Delivery",Approved,2024-04-10
+RR_301001830,OR_31002700,"Wrong Item Shipped",Approved,2024-04-19
+RR_301001831,OR_31002253,"Late Delivery",Rejected,2023-09-07
+RR_301001832,OR_31000181,"Late Delivery",Rejected,2023-08-08
+RR_301001833,OR_31005464,"Wrong Item Shipped",Approved,2023-10-24
+RR_301001834,OR_31003358,"Wrong Item Shipped",Rejected,2024-04-19
+RR_301001835,OR_31008548,"Defective Product",Rejected,2024-11-01
+RR_301001836,OR_31004569,"Defective Product",Rejected,2024-12-20
+RR_301001837,OR_31008841,"Late Delivery",Rejected,2024-07-22
+RR_301001838,OR_31005045,"Wrong Item Shipped",Approved,2024-04-08
+RR_301001839,OR_31004377,"Wrong Item Shipped",Approved,2024-04-16
+RR_301001840,OR_31006474,"Late Delivery",Approved,2023-03-02
+RR_301001841,OR_31008766,"Wrong Item Shipped",Approved,2024-07-01
+RR_301001842,OR_31005125,"Wrong Item Shipped",Approved,2023-06-04
+RR_301001843,OR_31003391,"Late Delivery",Approved,2024-07-06
+RR_301001844,OR_31006658,"Wrong Item Shipped",Rejected,2024-11-21
+RR_301001845,OR_31004458,"Wrong Item Shipped",Rejected,2023-11-23
+RR_301001846,OR_31008585,"Defective Product",Approved,2024-05-29
+RR_301001847,OR_31001730,"Wrong Item Shipped",Rejected,2024-10-05
+RR_301001848,OR_31004497,"Wrong Item Shipped",Approved,2024-08-13
+RR_301001849,OR_31000131,"Late Delivery",Approved,2023-02-19
+RR_301001850,OR_31000030,"Defective Product",Rejected,2023-10-31
+RR_301001851,OR_31009023,"Late Delivery",Approved,2024-10-24
+RR_301001852,OR_31002048,"Late Delivery",Rejected,2024-12-11
+RR_301001853,OR_31009951,"Wrong Item Shipped",Approved,2023-02-20
+RR_301001854,OR_31003921,"Wrong Item Shipped",Rejected,2024-02-04
+RR_301001855,OR_31001375,"Wrong Item Shipped",Approved,2023-03-10
+RR_301001856,OR_31003326,"Defective Product",Approved,2024-02-06
+RR_301001857,OR_31000347,"Defective Product",Approved,2024-12-01
+RR_301001858,OR_31008035,"Wrong Item Shipped",Approved,2023-06-10
+RR_301001859,OR_31002618,"Wrong Item Shipped",Rejected,2023-10-24
+RR_301001860,OR_31007611,"Wrong Item Shipped",Rejected,2024-11-26
+RR_301001861,OR_31002920,"Wrong Item Shipped",Approved,2024-03-28
+RR_301001862,OR_31005394,"Wrong Item Shipped",Approved,2024-01-26
+RR_301001863,OR_31002552,"Late Delivery",Rejected,2023-04-05
+RR_301001864,OR_31007770,"Wrong Item Shipped",Rejected,2024-09-07
+RR_301001865,OR_31002186,"Late Delivery",Rejected,2023-10-20
+RR_301001866,OR_31009455,"Late Delivery",Approved,2024-03-03
+RR_301001867,OR_31004754,"Defective Product",Rejected,2023-11-02
+RR_301001868,OR_31008217,"Late Delivery",Rejected,2023-05-12
+RR_301001869,OR_31000645,"Late Delivery",Approved,2024-03-08
+RR_301001870,OR_31003899,"Defective Product",Rejected,2024-01-22
+RR_301001871,OR_31007218,"Late Delivery",Approved,2024-03-05
+RR_301001872,OR_31001956,"Wrong Item Shipped",Approved,2024-10-15
+RR_301001873,OR_31000105,"Wrong Item Shipped",Approved,2023-07-12
+RR_301001874,OR_31006908,"Defective Product",Rejected,2023-04-09
+RR_301001875,OR_31006191,"Wrong Item Shipped",Approved,2023-02-11
+RR_301001876,OR_31003893,"Wrong Item Shipped",Approved,2024-03-24
+RR_301001877,OR_31004183,"Late Delivery",Rejected,2023-12-23
+RR_301001878,OR_31006239,"Defective Product",Approved,2023-11-09
+RR_301001879,OR_31004889,"Wrong Item Shipped",Rejected,2024-09-08
+RR_301001880,OR_31008190,"Late Delivery",Approved,2023-03-17
+RR_301001881,OR_31005434,"Defective Product",Approved,2023-12-07
+RR_301001882,OR_31003759,"Wrong Item Shipped",Approved,2024-07-19
+RR_301001883,OR_31004019,"Defective Product",Rejected,2023-08-16
+RR_301001884,OR_31002624,"Defective Product",Rejected,2024-02-12
+RR_301001885,OR_31004456,"Wrong Item Shipped",Rejected,2024-05-25
+RR_301001886,OR_31005059,"Wrong Item Shipped",Approved,2023-12-23
+RR_301001887,OR_31007081,"Wrong Item Shipped",Rejected,2023-12-03
+RR_301001888,OR_31006321,"Defective Product",Approved,2023-12-13
+RR_301001889,OR_31003318,"Late Delivery",Rejected,2023-02-10
+RR_301001890,OR_31007955,"Late Delivery",Rejected,2023-02-26
+RR_301001891,OR_31008425,"Wrong Item Shipped",Approved,2023-12-06
+RR_301001892,OR_31000550,"Wrong Item Shipped",Rejected,2023-01-21
+RR_301001893,OR_31003566,"Late Delivery",Rejected,2024-06-23
+RR_301001894,OR_31000539,"Wrong Item Shipped",Rejected,2024-11-07
+RR_301001895,OR_31002686,"Defective Product",Approved,2023-08-18
+RR_301001896,OR_31001167,"Defective Product",Rejected,2024-08-25
+RR_301001897,OR_31000182,"Wrong Item Shipped",Rejected,2023-03-18
+RR_301001898,OR_31005129,"Defective Product",Rejected,2024-04-28
+RR_301001899,OR_31005641,"Defective Product",Approved,2024-12-17
+RR_301001900,OR_31002494,"Defective Product",Approved,2023-08-28
+RR_301001901,OR_31009854,"Defective Product",Approved,2024-07-28
+RR_301001902,OR_31004751,"Late Delivery",Approved,2024-10-14
+RR_301001903,OR_31001916,"Late Delivery",Rejected,2024-10-15
+RR_301001904,OR_31000892,"Defective Product",Approved,2023-03-22
+RR_301001905,OR_31001985,"Wrong Item Shipped",Approved,2024-03-30
+RR_301001906,OR_31004103,"Wrong Item Shipped",Rejected,2024-07-30
+RR_301001907,OR_31006938,"Late Delivery",Rejected,2024-07-29
+RR_301001908,OR_31000391,"Defective Product",Approved,2024-07-31
+RR_301001909,OR_31003934,"Late Delivery",Rejected,2023-11-29
+RR_301001910,OR_31002007,"Wrong Item Shipped",Rejected,2024-10-06
+RR_301001911,OR_31003017,"Wrong Item Shipped",Approved,2024-03-24
+RR_301001912,OR_31008937,"Late Delivery",Approved,2024-09-24
+RR_301001913,OR_31002179,"Late Delivery",Approved,2023-01-04
+RR_301001914,OR_31003199,"Late Delivery",Approved,2023-06-15
+RR_301001915,OR_31007330,"Wrong Item Shipped",Approved,2023-03-14
+RR_301001916,OR_31006927,"Defective Product",Rejected,2024-12-12
+RR_301001917,OR_31006023,"Wrong Item Shipped",Rejected,2024-04-27
+RR_301001918,OR_31007921,"Wrong Item Shipped",Approved,2024-05-23
+RR_301001919,OR_31007455,"Wrong Item Shipped",Approved,2024-11-21
+RR_301001920,OR_31009009,"Late Delivery",Approved,2023-12-23
+RR_301001921,OR_31004253,"Wrong Item Shipped",Approved,2024-01-21
+RR_301001922,OR_31005972,"Late Delivery",Rejected,2024-09-03
+RR_301001923,OR_31003194,"Defective Product",Approved,2023-05-10
+RR_301001924,OR_31002718,"Defective Product",Rejected,2024-06-22
+RR_301001925,OR_31000987,"Wrong Item Shipped",Approved,2024-04-09
+RR_301001926,OR_31002788,"Defective Product",Approved,2023-01-13
+RR_301001927,OR_31008647,"Late Delivery",Approved,2023-05-17
+RR_301001928,OR_31001537,"Defective Product",Approved,2023-05-06
+RR_301001929,OR_31001446,"Defective Product",Rejected,2023-03-07
+RR_301001930,OR_31009889,"Late Delivery",Rejected,2023-03-26
+RR_301001931,OR_31007084,"Wrong Item Shipped",Approved,2023-06-03
+RR_301001932,OR_31005221,"Late Delivery",Approved,2024-08-21
+RR_301001933,OR_31009108,"Wrong Item Shipped",Rejected,2024-09-30
+RR_301001934,OR_31006600,"Late Delivery",Approved,2024-10-21
+RR_301001935,OR_31009917,"Late Delivery",Rejected,2024-03-26
+RR_301001936,OR_31008331,"Defective Product",Rejected,2023-08-20
+RR_301001937,OR_31004226,"Defective Product",Rejected,2023-08-18
+RR_301001938,OR_31008568,"Defective Product",Rejected,2024-05-14
+RR_301001939,OR_31002862,"Defective Product",Approved,2023-10-01
+RR_301001940,OR_31008337,"Late Delivery",Approved,2024-03-08
+RR_301001941,OR_31000994,"Defective Product",Approved,2023-01-31
+RR_301001942,OR_31005724,"Late Delivery",Rejected,2023-09-21
+RR_301001943,OR_31000413,"Wrong Item Shipped",Approved,2024-06-04
+RR_301001944,OR_31009446,"Late Delivery",Rejected,2023-06-26
+RR_301001945,OR_31006556,"Wrong Item Shipped",Rejected,2024-05-31
+RR_301001946,OR_31000706,"Wrong Item Shipped",Approved,2023-05-07
+RR_301001947,OR_31007879,"Wrong Item Shipped",Approved,2024-05-13
+RR_301001948,OR_31003329,"Defective Product",Approved,2023-10-13
+RR_301001949,OR_31008662,"Wrong Item Shipped",Rejected,2024-12-26
+RR_301001950,OR_31004639,"Defective Product",Rejected,2023-09-30
+RR_301001951,OR_31001855,"Defective Product",Approved,2023-07-03
+RR_301001952,OR_31004469,"Wrong Item Shipped",Rejected,2023-11-13
+RR_301001953,OR_31002296,"Defective Product",Rejected,2024-10-25
+RR_301001954,OR_31007701,"Late Delivery",Rejected,2023-01-24
+RR_301001955,OR_31009585,"Wrong Item Shipped",Approved,2023-10-22
+RR_301001956,OR_31005121,"Wrong Item Shipped",Approved,2023-06-10
+RR_301001957,OR_31006674,"Late Delivery",Rejected,2024-11-16
+RR_301001958,OR_31002605,"Defective Product",Approved,2023-12-09
+RR_301001959,OR_31003566,"Late Delivery",Rejected,2023-12-01
+RR_301001960,OR_31004120,"Defective Product",Rejected,2024-07-14
+RR_301001961,OR_31009695,"Wrong Item Shipped",Rejected,2024-02-10
+RR_301001962,OR_31000493,"Late Delivery",Rejected,2023-03-28
+RR_301001963,OR_31006178,"Late Delivery",Approved,2024-09-14
+RR_301001964,OR_31008563,"Defective Product",Approved,2024-09-21
+RR_301001965,OR_31003061,"Wrong Item Shipped",Rejected,2024-05-16
+RR_301001966,OR_31006891,"Late Delivery",Rejected,2023-05-21
+RR_301001967,OR_31008504,"Defective Product",Approved,2024-01-21
+RR_301001968,OR_31006278,"Wrong Item Shipped",Approved,2024-08-05
+RR_301001969,OR_31004767,"Late Delivery",Approved,2024-03-20
+RR_301001970,OR_31004983,"Defective Product",Rejected,2023-01-07
+RR_301001971,OR_31009333,"Late Delivery",Approved,2023-02-25
+RR_301001972,OR_31002653,"Wrong Item Shipped",Rejected,2024-04-11
+RR_301001973,OR_31004320,"Late Delivery",Rejected,2024-11-18
+RR_301001974,OR_31006871,"Defective Product",Rejected,2023-10-07
+RR_301001975,OR_31001008,"Late Delivery",Approved,2024-04-12
+RR_301001976,OR_31005852,"Defective Product",Rejected,2023-02-16
+RR_301001977,OR_31004646,"Late Delivery",Rejected,2023-07-24
+RR_301001978,OR_31002674,"Late Delivery",Approved,2024-07-10
+RR_301001979,OR_31001562,"Wrong Item Shipped",Approved,2024-10-07
+RR_301001980,OR_31004487,"Defective Product",Approved,2024-04-06
+RR_301001981,OR_31000071,"Wrong Item Shipped",Rejected,2023-06-26
+RR_301001982,OR_31007688,"Wrong Item Shipped",Approved,2024-06-29
+RR_301001983,OR_31003460,"Late Delivery",Approved,2024-07-13
+RR_301001984,OR_31009114,"Defective Product",Approved,2023-01-08
+RR_301001985,OR_31000408,"Late Delivery",Approved,2023-04-03
+RR_301001986,OR_31001201,"Defective Product",Rejected,2023-01-26
+RR_301001987,OR_31000680,"Defective Product",Rejected,2023-12-21
+RR_301001988,OR_31002198,"Late Delivery",Approved,2023-12-14
+RR_301001989,OR_31007572,"Wrong Item Shipped",Rejected,2023-03-06
+RR_301001990,OR_31003847,"Wrong Item Shipped",Rejected,2024-01-11
+RR_301001991,OR_31008120,"Late Delivery",Approved,2023-11-09
+RR_301001992,OR_31000270,"Wrong Item Shipped",Approved,2023-09-28
+RR_301001993,OR_31004990,"Defective Product",Approved,2023-01-25
+RR_301001994,OR_31005272,"Late Delivery",Rejected,2023-05-05
+RR_301001995,OR_31003432,"Wrong Item Shipped",Approved,2024-04-18
+RR_301001996,OR_31007159,"Late Delivery",Approved,2023-12-15
+RR_301001997,OR_31002005,"Defective Product",Approved,2023-08-05
+RR_301001998,OR_31001976,"Defective Product",Approved,2024-06-20
+RR_301001999,OR_31009400,"Wrong Item Shipped",Approved,2024-09-21
+RR_301002000,OR_31005780,"Defective Product",Rejected,2023-05-05
