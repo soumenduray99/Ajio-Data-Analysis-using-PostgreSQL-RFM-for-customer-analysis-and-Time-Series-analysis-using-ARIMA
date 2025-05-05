@@ -1,1 +1,1 @@
-# Nykaa-Data-Analysis-using-PostgreSQL-RFM-for-customer-analysis-Time-Series-analysis-using-ARIMA
+# Ajio-Data-Analysis-using-PostgreSQL-RFM-for-customer-analysis-Time-Series-analysis-using-ARIMA
