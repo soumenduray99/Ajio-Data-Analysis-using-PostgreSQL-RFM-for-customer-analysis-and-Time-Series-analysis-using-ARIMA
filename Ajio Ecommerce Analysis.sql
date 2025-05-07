@@ -70,13 +70,13 @@ alter table customer add constraint cs_mn unique (Mobile);
 alter table product rename column Gender to p_gender;
 
 /* enter data */
-copy customer from 'C:\Capstone Project\Nykaa ECommerce\Import Files\customer.csv' delimiter ',' csv header;
-copy product from 'C:\Capstone Project\Nykaa ECommerce\Import Files\product.csv' delimiter ',' csv header;
-copy orders from 'C:\Capstone Project\Nykaa ECommerce\Import Files\orders.csv' delimiter ',' csv header;
-copy delivery from 'C:\Capstone Project\Nykaa ECommerce\Import Files\delivery.csv' delimiter ',' csv header;
-copy rating from 'C:\Capstone Project\Nykaa ECommerce\Import Files\ratings.csv' delimiter ',' csv header;
-copy transactions from 'C:\Capstone Project\Nykaa ECommerce\Import Files\transaction.csv' delimiter ',' csv header;
-copy return_refund from 'C:\Capstone Project\Nykaa ECommerce\Import Files\returns.csv' delimiter ',' csv header;
+copy customer from 'C:\Capstone Project\Ajio ECommerce\Import Files\customer.csv' delimiter ',' csv header;
+copy product from 'C:\Capstone Project\Ajio ECommerce\Import Files\product.csv' delimiter ',' csv header;
+copy orders from 'C:\Capstone Project\Ajio ECommerce\Import Files\orders.csv' delimiter ',' csv header;
+copy delivery from 'C:\Capstone Project\Ajio ECommerce\Import Files\delivery.csv' delimiter ',' csv header;
+copy rating from 'C:\Capstone Project\Ajio ECommerce\Import Files\ratings.csv' delimiter ',' csv header;
+copy transactions from 'C:\Capstone Project\Ajio ECommerce\Import Files\transaction.csv' delimiter ',' csv header;
+copy return_refund from 'C:\Capstone Project\Ajio ECommerce\Import Files\returns.csv' delimiter ',' csv header;
 
 select * from customer;
 select * from product;
