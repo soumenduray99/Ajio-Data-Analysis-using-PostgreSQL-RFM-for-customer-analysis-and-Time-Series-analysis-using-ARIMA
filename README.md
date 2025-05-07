@@ -65,5 +65,20 @@ AJIO lacks an integrated analytical framework to:
 ## 3️⃣ RFM Model Results (Customer Segmentation) 🧑‍💻🔍  
 
 ### 🧬 Segments Identified  
-* 👑 **Champ*
+* 👑 **Champions**: 287 — high recency, frequency, and spend  
+* 💙 **Loyal Customers**: 410 — consistent, frequent buyers  
+* 🆕 **New Customers**: 502 — recent but low frequency  
+* 😴 **Hibernating**: 1,958 — low activity, ideal for re-engagement  
+* 🔥 **Can’t Lose**: 92 — high spenders at risk of churn  
+
+### 📈 Cluster Highlights  
+* 🏆 **Champions Avg Spend**: ₹4,368 | Frequency: 3.4 | Recency: 46 days  
+* 📉 **Hibernating**: Largest cluster — focus for marketing revival  
+
+---
+
+## 💡 Combined Strategy: SQL + RFM + ARIMA  
+* 🧭 **SQL + RFM**: Target top spenders, reactivate dormant users  
+* 📈 **ARIMA Forecasting**: Anticipate demand, logistics needs & return losses  
+* 🎯 **Business Optimization**: Align marketing, logistics & inventory strategies with predictive insights  
 
